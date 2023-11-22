@@ -28,12 +28,12 @@
             "name": "🌈免费接口，请勿贩售 公众号：魅力耿城",
             "type": 3,
             "api": "https://jihulab.com/bh666/YGBH/-/raw/main/lib/drpy2.min.js",
-            "ext": "https://jihulab.com/bh666/YGBH/-/raw/main/lib/douban.js",
+            "ext": "https://gitlab.com/cktx/tv/-/raw/main/盒锦_豆瓣.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
         },{"key":"好趣网","name":"📺电视直播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e5%a5%bd%e8%b6%a3%e7%bd%91.js"},
-         {"key":"drpy_js_荐片","name":"🧲荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jp.js"},{
+         {"key":"drpy_js_荐片","name":"🧲荐片","type":3,"api":"https://jihulab.com/bh666/YGBH/-/raw/main/lib/drpy2.min.js","ext":"https://gitlab.com/cktx/hj/-/raw/master/lib/盒锦荐片.js"},{
       "key": "csp_农民",
       "name": "🍎农民影视",
       "type": 3,
@@ -47,7 +47,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/bh666/YGBH/-/raw/main/h/蚂蚁4K.json","jar": "./jar/XYQ1.jar"
+      "ext": "https://jihulab.com/bh666/YGBH/-/raw/main/h/蚂蚁4K.json","jar": "https://jihulab.com/bh666/YGBH/-/raw/main/jar/XYQ1.jar"
     },   {
       "key":"Mm",
       "name":"🍭毛毛4K",
@@ -263,7 +263,7 @@
         "惊悚片",
         "冒险片"
       ]
-    }, {"key":"drpy_js_野格","name":"🚗野格","type":3,"api":"./lib/drpy2.min.js","ext":"./js/野格.js"}, {
+    }, {"key":"drpy_js_野格","name":"🚗野格","type":3,"api":"https://jihulab.com/bh666/YGBH/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/bh666/YGBH/-/raw/main/js/野格.js"}, {
       "key": "csp_woggcli",
       "name": "✨玩偶┃T4T4K",
       "type": 4,
@@ -395,7 +395,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/123941cb-0e76-4602-9c24-31815225d4ab/token.txt","jar": "./jar/dm.jar"
+      "ext": "http://127.0.0.1:9978/file/tvbox/123941cb-0e76-4602-9c24-31815225d4ab/token.txt","jar": "https://jihulab.com/bh666/YGBH/-/raw/main/jar/dm.jar"
     },
     {
       "key": "Zhaozy",
@@ -406,7 +406,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/123941cb-0e76-4602-9c24-31815225d4ab/token.txt","jar": "./jar/dm.jar"
+      "ext": "http://127.0.0.1:9978/file/tvbox/123941cb-0e76-4602-9c24-31815225d4ab/token.txt","jar": "https://jihulab.com/bh666/YGBH/-/raw/main/jar/dm.jar"
     },
     {
       "key": "UpYun",
@@ -417,7 +417,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/123941cb-0e76-4602-9c24-31815225d4ab/token.txt","jar": "./jar/dm.jar"
+      "ext": "http://127.0.0.1:9978/file/tvbox/123941cb-0e76-4602-9c24-31815225d4ab/token.txt","jar": "https://jihulab.com/bh666/YGBH/-/raw/main/jar/dm.jar"
     },
   
    
@@ -526,9 +526,9 @@
       "ext": "http://api.jialiangos.com:81/api.php/app/"
     },
 {"key":"csp_XBPQTVB影视","name":"☁️极速云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/bh666/YGBH/-/raw/main/h/tvbyun.json","jar":"https://jihulab.com/bh666/YGBH/-/raw/main/jar/xBPQ_1106.jar"},
-        {"key":"乐猪影视","name":"🐖乐猪影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/bh666/YGBH/-/raw/main/h/lezhu.json"},
-	{"key":"达达龟","name":"🐢哒哒龟","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"https://jihulab.com/bh666/YGBH/-/raw/main/h/dadagui.json"},
-	{"key":"sc影视","name":"🌸盛城影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/bh666/YGBH/-/raw/main/y/sc1080.json"},{"key":"suying影视","name":"🍓速映影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/bh666/YGBH/-/raw/main/y/suying.json"},{"key":"笑笑影视","name":"🌹笑笑影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/bh666/YGBH/-/raw/main/y/xiaoxiao.json"},{ "key": "365", "name": "🌙365秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},{"key":"畅梦","name":"🍋畅梦秒播","type":3,"api":"https://jihulab.com/bh666/YGBH/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/bh666/YGBH/-/raw/main/y/changmeng.js"},
+        {"key":"乐猪影视","name":"🐖乐猪影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/cktx/hj/-/raw/master/lib/lezhu.json"},
+	{"key":"达达龟","name":"🐢哒哒龟","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"https://gitlab.com/cktx/hj/-/raw/master/lib/ddgui.json"},
+	{"key":"sc影视","name":"🌸盛城影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/cktx/hj/-/raw/master/lib/sc1080.json"},{"key":"suying影视","name":"🍓速映影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/cktx/hj/-/raw/master/lib/suying.json"},{"key":"笑笑影视","name":"🌹笑笑影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/bh666/YGBH/-/raw/main/y/xiaoxiao.json"},{ "key": "365", "name": "🌙365秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},{"key":"畅梦","name":"🍋畅梦秒播","type":3,"api":"https://jihulab.com/bh666/YGBH/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/bh666/YGBH/-/raw/main/y/changmeng.js"},
 	{"key":"csp_Kunyu77","name":"🌍77影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://jihulab.com/bh666/YGBH/-/raw/main/jar/77.jar"},
         {"key":"csp_Ddys","name":"⛳低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://jihulab.com/bh666/YGBH/-/raw/main/jar/83.jar"},
         {
@@ -584,7 +584,7 @@
       "filterable": 1,
       "playerType": 2,
       "ext": "https://cz01.me/"
-    },{ "key":"drpy_js_素白白", "name":"🍧素白白", "type":3, "api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js", "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/sbb.js" },  { "key":"drpy_js_sh", "name":"💄骚火电影", "type":3, "api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js", "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/sh.js" }, 
+    },{ "key":"drpy_js_素白白", "name":"🍧素白白", "type":3, "api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js", "ext":"https://gitlab.com/cktx/hj/-/raw/master/lib/盒锦_素白白.min.js" },  { "key":"drpy_js_sh", "name":"💄骚火电影", "type":3, "api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js", "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/sh.js" }, 
           {
       "key": "csp_SeedHub",
       "name": "🧲SeedHub",
