@@ -20,7 +20,7 @@
     {"group":"redirect",
     "channels":[{
     "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcveWdiaDg4ODgvQkgvcmF3L2JyYW5jaC9tYWluL1pCL1pCLnR4dA=="]}]
+    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2FsaXZlL2MvcmF3L2JyYW5jaC9tYXN0ZXIvdHR2di50eHQ="]}]
     }],
 "sites":[
 {
@@ -41,7 +41,7 @@
       "ext":"https://jihulab.com/bh666/YGBH/-/raw/main/js/nm.js"
     }, {"key": "csp_日后","name": "🌜348影视","type": 3,"jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar","api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./h/348.json"},{
       "key": "csp_XYQHiker_蚂蚁4K",
-      "name": "🧲宝盒4K",
+      "name": "🧲盒锦4K",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
