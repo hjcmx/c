@@ -263,14 +263,14 @@
         "惊悚片",
         "冒险片"
       ]
-    }, {"key":"drpy_js_野格","name":"🚗野格","type":3,"api":"https://jihulab.com/bh666/YGBH/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/bh666/YGBH/-/raw/main/js/野格.js"}, {
+    }, {"key":"drpy_js_野格","name":"🚗野格","type":3,"api":"https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/js/野格.js"}, {
       "key": "csp_woggcli",
       "name": "✨玩偶┃T4T4K",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=https://jihulab.com/0004/0/-/raw/main/tk.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,"jar": "https://jihulab.com/bh666/YGBH/-/raw/main/jar/dm.jar"
+      "filterable": 1,"jar": "https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/jar/dm.jar"
     },  {
       "key": "csp_WoGG",
       "name": "🎈玩偶4K",
@@ -289,7 +289,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/bh666/YGBH/-/raw/main/h/%E5%A5%BD%E6%88%8F2.json","jar": "https://jihulab.com/bh666/YGBH/-/raw/main/jar/hx.jar"
+      "ext": "https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/h/%E5%A5%BD%E6%88%8F2.json","jar": "https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/jar/hx.jar"
     },{
     "key":"csp_XBPQ_duoju",
     "name":"🍹多剧影院",
@@ -466,7 +466,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/bh666/YGBH/-/raw/main/h/free.json"
+      "ext": "https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/h/free.json"
     },{
             "key": "往往",
             "name": " 🍧往往影视",
@@ -486,7 +486,7 @@
       "api": "csp_Mp4Mov",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,"jar": "https://jihulab.com/bh666/YGBH/-/raw/main/jar/XYQ1.jar"
+      "filterable": 1,"jar": "https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/jar/XYQ1.jar"
     },
     {
       "key": "csp_New6v",
@@ -496,7 +496,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://www.xb6v.com","jar": "https://jihulab.com/bh666/YGBH/-/raw/main/jar/XYQ1.jar"
+      "ext": "http://www.xb6v.com","jar": "https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/jar/XYQ1.jar"
     },
   {
       "key": "Xinsj",
@@ -506,7 +506,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.6080yy3.com/","jar": "https://jihulab.com/bh666/YGBH/-/raw/main/jar/hx.jar"
+      "ext": "https://www.6080yy3.com/","jar": "https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/jar/hx.jar"
     },   {"key": "csp_XBPQ_6V",
   "name": "🌙宝盒4K专享",
   "type": 3,
@@ -514,7 +514,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext":"https://jihulab.com/bh666/YGBH/-/raw/main/h/6v.json"},
+  "ext":"https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/h/6v.json"},
 {
       "key": "嘉靓",
       "name": "☃嘉靓影视",
