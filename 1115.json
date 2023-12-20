@@ -3,7 +3,7 @@
 //"spider": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/nightly/custom_spider.jar;md5;364C0F012E73A8801A69900FC25AE9C1",
 
 
-//"spider":"https://jihulab.com/bh666/YGBH/-/raw/main/jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
+//"spider":"https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
 
 "lives":[
 
@@ -27,18 +27,18 @@
             "key": "js豆瓣1",
             "name": "🌈免费接口，请勿贩售 公众号：魅力耿城",
             "type": 3,
-            "api": "https://jihulab.com/bh666/YGBH/-/raw/main/lib/drpy2.min.js",
+            "api": "https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/lib/drpy2.min.js",
             "ext": "https://gitlab.com/cktx/tv/-/raw/main/盒锦_豆瓣.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
         },{"key":"好趣网","name":"📺电视直播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e5%a5%bd%e8%b6%a3%e7%bd%91.js"},
-         {"key":"drpy_js_荐片","name":"🧲荐片","type":3,"api":"https://jihulab.com/bh666/YGBH/-/raw/main/lib/drpy2.min.js","ext":"https://gitlab.com/cktx/hj/-/raw/master/lib/盒锦荐片.js"},{
+         {"key":"drpy_js_荐片","name":"🧲荐片","type":3,"api":"https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/lib/drpy2.min.js","ext":"https://gitlab.com/cktx/hj/-/raw/master/lib/盒锦荐片.js"},{
       "key": "csp_农民",
       "name": "🍎农民影视",
       "type": 3,
-      "api": "https://jihulab.com/bh666/YGBH/-/raw/main/lib/drpy2.min.js",
-      "ext":"https://jihulab.com/bh666/YGBH/-/raw/main/js/nm.js"
+      "api": "https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/lib/drpy2.min.js",
+      "ext":"https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/js/nm.js"
     }, {"key": "csp_日后","name": "🌜348影视","type": 3,"jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar","api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./h/348.json"},{
       "key": "csp_XYQHiker_蚂蚁4K",
       "name": "🧲盒锦4K",
@@ -47,7 +47,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/bh666/YGBH/-/raw/main/h/蚂蚁4K.json","jar": "https://jihulab.com/bh666/YGBH/-/raw/main/jar/XYQ1.jar"
+      "ext": "https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/h/蚂蚁4K.json","jar": "https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/jar/XYQ1.jar"
     },   {
       "key":"Mm",
       "name":"🍭毛毛4K",
