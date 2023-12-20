@@ -4,21 +4,21 @@
       "key": "js豆瓣",
       "name": "🍥┃豆瓣┃软件接口免费,禁止贩卖,公众号:『魅力耿城』提供🍥",
       "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/douban.js"
+      "ext": "https://gitlab.com/cktx/tv/-/raw/main/盒锦_豆瓣.min.js"
     },
     {
       "key": "dr_豆瓣",
       "name": "「公众号（魅力耿城）」ㅤ官网:hejin.live",
       "type": 3,
-      "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "searchable": 2,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://8.210.232.168/tv/box/js/douban.js"
+      "ext": "https://d.kstore.space/download/6296/js/豆瓣推荐.js"
     },
     {
       "key": "MV_vod",
@@ -773,8 +773,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/saohuo.js"
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/骚火.js"
     },
     {
       "key": "js_大师兄",
@@ -946,6 +946,14 @@
         "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
         "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
       }
+    },
+     {
+      "key": "种子短剧",
+      "name": "💮┃短剧┃视频",
+      "type": 3,
+      "api": "csp_Panda",
+      "ext": "分类url:http://web.zzdj.cc/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:快手$2#抖音$3#都市$4#古装$5#重生$6#逆袭$7#虐恋$8#萌宝$9#言情$10#穿越$11#战神$12#神医$13#赘婿$14#甜宠$15#其它$16#短剧$1",
+      "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
     },
     {
       "key": "js_DJ5",
@@ -1881,6 +1889,6 @@
   ],
   "wallpaper": "https://jianbian.chuqiuyu.tk",
   "warningText": "接口免费整理维护，请勿付费购买",
-  "spider": "https://jihulab.com/duomv/duox/-/raw/main/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
+  "spider": "https://agit.ai/alive/c/raw/branch/master/j/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
   //https://agit.ai/alive/c/raw/branch/master/j/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171
 }
