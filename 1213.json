@@ -18,49 +18,28 @@
       "key": "dr_魅力在线豆瓣",
       "name": "🌞豆瓣甄选💢v20231212-129",
       "type": 3,
-      "api": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/merge.min.js",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://gitlab.com/cktx/tv/-/raw/main/盒锦_豆瓣.min.js"
     },
     {
-      "key": "csp_KungFu404",
-      "name": "🔥设置Token",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tm/token.txt",
-      "jar": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/alibaba.jar"
-    },
-    {
-      "key": "jar_锦看玩偶",
-      "name": "🔥码上看玩偶",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tm/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
-    {
       "key": "dr_锦看低端",
       "name": "🔥锦看低端",
       "type": 3,
-      "api": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/merge.min.js",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/低端影视.js"
+      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/低端影视.js"
     },
     {
       "key": "dr_锦看荐片",
       "name": "🔥锦看荐片",
       "type": 3,
-      "api": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/merge.min.js",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
@@ -71,51 +50,51 @@
       "key": "dr_锦看NY",
       "name": "🔥锦看NY",
       "type": 3,
-      "api": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/merge.min.js",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/NY影院.js"
+      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/NY影院.js"
     },
     {
       "key": "dr_码上看中国人",
       "name": "🔥锦看国人",
       "type": 3,
-      "api": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/merge.min.js",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/中国人.js"
+      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/中国人.js"
     },
     {
       "key": "dr_码上看玄天",
       "name": "🔥锦看玄天",
       "type": 3,
-      "api": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/merge.min.js",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/玄天.js"
+      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/玄天.js"
     },
     {
       "key": "dr_码上看阿布",
       "name": "🔥锦看阿布",
       "type": 3,
-      "api": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/merge.min.js",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/阿布.js"
+      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/阿布.js"
     },
     {
       "key": "dr_码上看动漫",
       "name": "🔥锦看动漫",
       "type": 3,
-      "api": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/merge.min.js",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -125,81 +104,122 @@
       "key": "dr_码上看NYA",
       "name": "🔥锦看NYA",
       "type": 3,
-      "api": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/merge.min.js",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/NyaFun.js"
+      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/NyaFun.js"
     },
     {
       "key": "dr_码上看白白",
       "name": "🔥锦看白白",
       "type": 3,
-      "api": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/merge.min.js",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/素白白.js"
+      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/素白白.js"
     },
     {
       "key": "dr_码上看农民",
       "name": "🔥锦看农民",
       "type": 3,
-      "api": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/merge.min.js",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/农民影视.js"
+      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/农民影视.js"
     },
     {
       "key": "dr_码上看胖虎",
       "name": "🔥锦看胖虎",
       "type": 3,
-      "api": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/merge.min.js",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/胖虎.js"
+      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/胖虎.js"
     },
     {
       "key": "dr_码上看时光",
       "name": "🔥锦看时光",
       "type": 3,
-      "api": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/merge.min.js",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/时光影视.js"
+      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/时光影视.js"
     },
     {
       "key": "dr_码上看网飞",
       "name": "🔥锦看网飞",
       "type": 3,
-      "api": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/merge.min.js",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/网飞.TV.js"
+      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/网飞.TV.js"
     },
     {
       "key": "dr_码上看跟剧",
       "name": "🔥锦看跟剧",
       "type": 3,
-      "api": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/merge.min.js",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/我爱跟剧.js"
+      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/我爱跟剧.js"
     },
     {
       "key": "jar_码上看Auete",
       "name": "🔥锦看Auete",
       "type": 3,
-      "api": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/merge.min.js",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/sites/码上/Auete.js"
+      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/Auete.js"
+    },
+     {
+      "key": "xml_火狐",
+      "name": "🔥锦看火狐",
+      "type": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.8
+      },
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "悬疑片",
+        "犯罪片",
+        "奇幻片",
+        "记录片",
+        "动画片",
+        "内地剧",
+        "香港剧",
+        "台湾剧",
+        "日剧",
+        "韩剧",
+        "欧美剧",
+        "马泰剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ]
     },
     {
       "key": "push_agent",
