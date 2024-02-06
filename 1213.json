@@ -18,7 +18,7 @@
       "key": "dr_魅力在线豆瓣",
       "name": "🌞豆瓣甄选💢v20231212-129",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -28,18 +28,18 @@
       "key": "dr_锦看低端",
       "name": "🔥锦看低端",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/低端影视.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/低端影视.js"
     },
     {
       "key": "dr_锦看荐片",
       "name": "🔥锦看荐片",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
@@ -50,51 +50,51 @@
       "key": "dr_锦看NY",
       "name": "🔥锦看NY",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/NY影院.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/NY影院.js"
     },
     {
       "key": "dr_码上看中国人",
       "name": "🔥锦看国人",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/中国人.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/中国人.js"
     },
     {
       "key": "dr_码上看玄天",
       "name": "🔥锦看玄天",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/玄天.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/玄天.js"
     },
     {
       "key": "dr_码上看阿布",
       "name": "🔥锦看阿布",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/阿布.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/阿布.js"
     },
     {
       "key": "dr_码上看动漫",
       "name": "🔥锦看动漫",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -104,71 +104,71 @@
       "key": "dr_码上看NYA",
       "name": "🔥锦看NYA",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/NyaFun.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/NyaFun.js"
     },
     {
       "key": "dr_码上看白白",
       "name": "🔥锦看白白",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/素白白.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/素白白.js"
     },
     {
       "key": "dr_码上看农民",
       "name": "🔥锦看农民",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/农民影视.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/农民影视.js"
     },
     {
       "key": "dr_码上看胖虎",
       "name": "🔥锦看胖虎",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/胖虎.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/胖虎.js"
     },
     {
       "key": "dr_码上看时光",
       "name": "🔥锦看时光",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/时光影视.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/时光影视.js"
     },
     {
       "key": "dr_码上看网飞",
       "name": "🔥锦看网飞",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/网飞.TV.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/网飞.TV.js"
     },
     {
       "key": "dr_码上看跟剧",
       "name": "🔥锦看跟剧",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/我爱跟剧.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/我爱跟剧.js"
     },
     {
       "key": "jar_码上看Auete",
