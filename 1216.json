@@ -65,7 +65,7 @@
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/%E4%B8%AD%E5%9B%BD%E4%BA%BA.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/%E4%B8%AD%E5%9B%BD%E4%BA%BA.js"
     },
     {
       "key": "dr_锦看玄天",
@@ -76,7 +76,7 @@
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/玄天.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/玄天.js"
     },
     {
       "key": "dr_锦看阿布",
@@ -87,7 +87,7 @@
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/阿布.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/阿布.js"
     },
      
      {
@@ -98,7 +98,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/NyaFun.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/NyaFun.js"
     },
       {
       "key": "csp_WoGG",
@@ -125,21 +125,21 @@
       "key": "dr_锦看网飞",
       "name": "🔥锦看网飞",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/%E7%BD%91%E9%A3%9E.TV.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/%E7%BD%91%E9%A3%9E.TV.js"
     },
      {
       "key": "dr_码上看跟剧",
       "name": "🔥锦看跟剧",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/我爱跟剧.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/我爱跟剧.js"
     },
      {
       "key": "更多资源",
