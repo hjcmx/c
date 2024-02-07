@@ -1,5 +1,5 @@
 {
-  "spider": "https://agit.ai/alive/c/raw/branch/master/j/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171",
+  "spider": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/custom_spider.jar;md5;C3E8C08B4CD6F7FD0F868EA48DD42CB2",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "warningText": "魅力耿城公众号免费整理维护：资源来自网络，无盈利，纯技术分享，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "lives": [
@@ -174,11 +174,11 @@
       "key": "jar_码上看Auete",
       "name": "🔥锦看Auete",
       "type": 3,
-      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
+      "api": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/%E7%A0%81%E4%B8%8A/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/Auete.js"
+      "ext": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/sites/码上/Auete.js"
     },
      {
       "key": "xml_火狐",
