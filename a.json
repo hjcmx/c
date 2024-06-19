@@ -28,7 +28,7 @@
                                                                        \"分类url\":\"http://www.dudu30.com/?m=vod-type-id-{cateId}-pg-{catePg}.html\"}"},
 {
           "key": "央视经典",
-                "name": "📺央视｜经典",
+                "name": "📺关注公众号",
                       "type": 3,
                             "api": "csp_Bili",
                                   "searchable": 0,
@@ -38,7 +38,7 @@
 },
 {
           "key": "MV",
-                "name": "结合",
+                "name": "【魅力耿城】",
                       "type": 3,
                             "api": "csp_Bili",
                                   "searchable": 1,
