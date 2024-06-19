@@ -1,897 +1,515 @@
 {
-  "sites": [
-    {
-      "key": "js豆瓣",
-      "name": "🍥┃豆瓣┃软件接口免费,禁止贩卖,公众号:『魅力耿城』提供🍥",
-      "type": 3,
-      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitlab.com/cktx/tv/-/raw/main/盒锦_豆瓣.min.js"
-    },
-    {
-      "key": "dr_豆瓣",
-      "name": "「公众号（魅力耿城）」ㅤ官网:hejin.live",
-      "type": 3,
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://d.kstore.space/download/6296/js/豆瓣推荐.js"
-    },
-    {
-      "key": "MV_vod",
-      "name": "🎹┃MTV┃合集",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "新片热播",
-      "name": "🔷┃新片┃热播",
-      "type": 1,
-      "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "连续剧",
-        "动漫"
-      ]
-    },
-    {
-      "key": "app_轻简",
-      "name": "🚈┃轻简┃影视",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
-      "key": "骑骑影院",
-      "name": "🚵┃骑骑┃影院",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-    },
-    {
-      "key": "csp_aidi",
-      "name": "🤟┃爱迪┃高清",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://aidiapp.xyz/xgapp.php/v2/"
-    },
-    {
-      "key": "csp_beijihu",
-      "name": "🎪┃极狐┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-    {
-      "key": "cjzy_暴风资源",
-      "name": "🎈┃暴风┃影视",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "",
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "大陆综艺",
-        "港台综艺",
-        "香港剧",
-        "台湾剧",
-        "日本剧",
-        "欧美剧",
-        "泰国剧",
-        "日本动漫",
-        "日本综艺",
-        "综艺频道",
-        "新马泰综艺",
-        "纪录片",
-        "科幻片",
-        "喜剧片",
-        "战争片"
-      ]
-    },
-    {
-      "key": "AppYs_南瓜",
-      "name": "🍚┃南瓜┃影视",
-      "type": 3,
-      "playerType": 2,
-      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
-    },
-    {
-            "key": "索尼",
-            "name": "🎗┃索尼┃影视",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": ["动作片",
-            "喜剧片",
-            "爱情片",
-            "科幻片",
-            "恐怖片",
-            "剧情片",
-            "战争片",
-            "国产剧",
-            "欧美剧",
-            "韩剧",
-            "日剧",
-            "港剧",
-            "台剧",
-	     "泰剧",
-	     "记录片",
-            "海外剧",
-            "大陆综艺",
-	    "日韩综艺",
-	    "港台综艺",
-	    "欧美综艺",
-	     "足球",
-	    "影视解说",
-            "国产动漫"
-          ]
-        },
-        {
-      "key": "49zy",
-      "name": "🏭️┃49zy┃影视",
-      "type": 1,
-      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "纪录片",
-        "欧美剧",
-        "香港剧",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "喜剧片",
-        "动画片",
-        "犯罪片",
-        "韩国剧",
-        "动漫",
-        "电影",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "台湾剧",
-        "国产动漫",
-        "日本动漫",
-        "欧美动漫",
-        "泰国剧",
-        "日剧",
-        "电影解说",
-        "奇幻片",
-        "灾难片",
-        "悬疑片",
-        "其他片",
-        "体育赛事",
-        "海外剧"
-      ]
-    }, 
-    {
-      "key": "鑫鑫影视",
-      "name": "🥇┃鑫鑫┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-    },
-    {
-      "key": "加亮",
-      "name": "🪔┃加亮┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://api.jialiangos.com:81/api.php/app/"
-    },
-    {
-      "key": "csp_WoGG",
-      "name": "💂‍┃阿里┃玩偶",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
-    },
-    {
-      "key": "csp_Bttoo",
-      "name": "🍄比特┃直连",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "贱贱",
-      "name": "🐭贱贱┃p2p",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
-    },
-     {
-      "key": "快影",
-      "name": "🦄️快影┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://iosa.xn--654a.cc/api.php/app/"
-    },
-     {
-      "key": "zxzj",
-      "name": "📗在线┃直连",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzj.pro/"
-    },
-    {
-      "key": "追忆",
-      "name": "🐿追忆┃App",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="
-    },
-     {
-      "key": "探探",
-      "name": "🏵影探┃App",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30,
-      "ext": "vip.lyyytv.cn"
-    },
-    {
-      "key": "csp_非凡资源",
-      "name": "🥗┃非凡┃资源",
-      "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
-    },
-    {
-      "key": "量子资源",
-      "name": "🥑┃量子┃资源",
-      "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "泰国剧",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "动漫",
-        "体育",
-        "剧情片",
-        "动作片",
-        "爱情片",
-        "喜剧片"
-      ]
-    },
-    {
-      "key": "csp_YQKAPP",
-      "name": "👨‍👩‍👧‍👦┃一起┃电视",
-      "type": 3,
-      "api": "csp_YQKAPP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://hk-api-cf.yqk5659.com"
-    },
-    {
-      "key": "csp_MeiJu69",
-      "name": "🗽┃六九┃美剧",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.69mj.com/xgapp.php/v2/"
-    },
-   	  {
-      "key": "奇虎",
-      "name": "🐅┃奇虎┃影视",
-      "type": 0,
-      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-       "categories": [
-        "动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","国产剧","香港剧","台湾剧","欧美剧","动画片","纪录片","日本剧","韩国剧","泰国剧","海外剧","欧美动漫","日本动漫","国产动漫","欧美综艺","日韩综艺","大陆综艺","港台综艺","体育"
-      ]
-    },
-    {
-      "key": "打磨资源",
-      "name": "🐅┃大漠┃影视",
-      "type": 0,
-      "api": "https://damozy.com/api.php/provide/vod/from/M3U8/at/xml/",
-      "searchable": 1},
- {
-      "key":"Mm",
-      "name":"🍭┃毛毛┃4K",
-      "type":3,
-      "api":"csp_AppYsV2",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"http://ys.qtw.asia/lvdou_api.php/v1.vod"
-    },
-
-       {
-      "key": "csp_DiDuan",
-      "name": "🐞┃低端┃影视",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9b94bf80abbc161c088fed69f3afd56f"
-    },
-    {
-      "key": "Kuaikan",
-      "name": "🦋┃快看┃影视",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_AppMr",
-      "name": "🦍┃二明┃影视",
-      "type": 3,
-      "api": "csp_AppMr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Lgyy",
-      "name": "🌀┃蓝光┃影院",
-      "type": 3,
-      "api": "csp_Lgyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.lgyy.vip"
-    },
-    {
-      "key": "csp_Vofl",
-      "name": "🧿┃VoFl┃资源",
-      "type": 3,
-      "api": "csp_Voflix",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "360_spider",
-      "name": "💫┃三六┃影视",
-      "type": 3,
-      "api": "csp_SP33",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "zy_新浪",
-      "name": "🏄🏻┃新浪┃资源",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "动漫",
-        "综艺",
-        "纪录片",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "剧情片",
-        "恐怖片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "体育"
-      ]
-    },
-    {
-      "key": "api_xml_搜糊",
-      "name": "️🦊┃搜糊┃影视",
-      "type": 1,
-      "api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/",
-      "playUrl": "https://jx.777jiexi.com/player/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "奇幻片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "综艺",
-        "动漫"
-      ]
-    },
-		{
-			"key": "csp_xml_百度",
-			"name": "🆔百度┃影视",
-			"type": 1,
-			"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playerType": 2,
-			"categories": [
-				"动作片",
-				"喜剧片",
-				"科幻片",
-				"恐怖片",
-				"爱情片",
-				"剧情片",
-				"战争片",
-				"纪录片",
-				"动画电影",
-				"大陆剧",
-				"欧美剧",
-				"犯罪片",
-				"港澳剧",
-				"韩剧",
-				"泰剧",
-				"台湾剧",
-				"日剧",
-				"海外剧",
-				"其他片",
-				"悬疑片",
-				"奇幻片",
-				"动画片",
-				"体育赛事",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫",
-				"港台动漫",
-				"海外动漫",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺"
-			]
-		},
-		{
-			"key": "csp_xml_闪电资源",
-			"name": "🌩闪电┃影视",
-			"type": 1,
-			"api": "https://sdzyapi.com/api.php/provide/vod/?ac=list",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playUrl": "",
-			"playerType": 2,
-			"categories": [
-				"动作片",
-				"喜剧片",
-				"科幻片",
-				"恐怖片",
-				"爱情片",
-				"悬疑片",
-				"剧情片",
-				"战争片",
-				"纪录片",
-				"动画电影",
-				"国产剧",
-				"欧美剧",
-				"犯罪片",
-				"港剧",
-				"韩剧",
-				"泰剧",
-				"台剧",
-				"日剧",
-				"海外剧",
-				"其他片",
-				"悬疑片",
-				"奇幻片",
-				"动画片",
-				"体育赛事",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫",
-				"港台动漫",
-				"海外动漫",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺"
-			]
-		},
-		{
-			"key": "csp_xml_ikun",
-			"name": "🆖ikun┃影视",
-			"type": 1,
-			"api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
-			"searchable": 1,
-			"playUrl": "https://www.ikdmjx.com/?url=",
-			"quickSearch": 1,
-			"filterable": 1,
-			"playerType": 2,
-			"categories": [
-				"动作片",
-				"喜剧片",
-				"科幻片",
-				"恐怖片",
-				"爱情片",
-				"剧情片",
-				"战争片",
-				"记录片",
-				"国产剧",
-				"欧美剧",
-				"犯罪片",
-				"惊悚片",
-				"古装片",
-				"灾难片",
-				"历史片",
-				"香港剧",
-				"韩国剧",
-				"台湾剧",
-				"日本剧",
-				"海外剧",
-				"泰国剧",
-				"其他片",
-				"悬疑片",
-				"奇幻片",
-				"动画片",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺"
-			]
-		},
-  
-    {
-      "key": "csp_Ysgc",
-      "name": "🎬️┃影视┃工厂",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.ysgc.fun"
-    },
-    {
-      "key": "石榴影视",
-      "name": "🎀┃石榴┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://weixine.net/sub/shiliu.json",
-      "jar": "http://111.67.195.139/yydf/lib/JGWO.jar;md5;38eff96e7b3b784b623af0957cc9b658"
-    },
-       {
-      "key": "js_骚火电影",
-      "name": "🔥┃骚火┃影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/骚火.js"
-    },
-   
-
-   
-    
-       {
-      "key": "XBPQ_葡萄",
-      "name": "🎦┃短剧┃葡萄",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "数组": "class=\"stui-vodlist__box&&</li",
-        "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
-        "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
-      }
-    },
-     {
-      "key": "种子短剧",
-      "name": "💮┃短剧┃视频",
-      "type": 3,
-      "api": "csp_Panda",
-      "ext": "分类url:http://web.zzdj.cc/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:快手$2#抖音$3#都市$4#古装$5#重生$6#逆袭$7#虐恋$8#萌宝$9#言情$10#穿越$11#战神$12#神医$13#赘婿$14#甜宠$15#其它$16#短剧$1",
-      "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
-    },
-   
-   
-    {
-      "key": "csp_XBPQ_aoaotv",
-      "name": "🎦┃短剧┃嗷嗷",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
-        "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
-      }
-    },
-   
-       
-    {
-      "key": "csp_Btwtoo",
-      "name": "✌┃两个┃鼻涕",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-     {
-      "key": "酷奇js",
-      "name": "🎤酷奇┃MV",
-      "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "csp_Anime1",
-      "name": "🌸┃动漫┃系列",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Bili",
-      "name": "🅱️┃哔哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://weixine.net/sub/Bili.json"
-    },
-    {
-    "key":"Bili_歌舞",
-    "name":"🅱️哔哔┃歌舞",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":1,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"http://8.210.232.168/tv/box/乱舞.json"
-    },
-    {
-    "key":"Bili_健身",
-    "name":"🅱️哔哔┃健身",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":1,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"http://8.210.232.168/tv/box/json/健身.js"
-    },
-      
-      {
-      "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
-      "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-     
-      {"key":"drpy_js_童趣","name":"💥童趣┃少儿","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/童趣.js"},
-      {"key":"drpy_js_有声绘本网","name":"💥绘本┃少儿","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/有声绘本网.js"},  
-    {
-    "key":"Bili_学习乐园",
-    "name":"🅱️学习┃乐园",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":1,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"http://8.210.232.168/tv/box/学习园地.json"
-    },
-    {
-    "key":"Bili_小姐",
-    "name":"🅱️哔哔┃姐姐",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":1,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"http://8.210.232.168/tv/box/json/xiaojiejie.js"
-    },
-    {
-    "key":"Bili_车模",
-    "name":"🅱️哔哔┃车模",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":1,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"http://8.210.232.168/tv/box/json/chemo.js"
-    },
-    {
-    "key":"Bili_CCTV",
-    "name":"🅱️哔哔┃CCTV",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":1,
-    "quickSearch":0,
-    "filterable":0,
-    "ext":"http://8.210.232.168/tv/box/json/cctv.js"
-    },
-{"key":"幼儿乐园","name":"🅱️┃幼儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/fssyxs/bak/raw/master/yejy.json"},
-{"key":"少儿教育","name":"🅱️┃少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/少儿教育.json"},
-{"key":"小学课堂","name":"🅱️┃小学┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/小学课堂.json"},
-{"key":"初中教育","name":"🅱️┃初中┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/初中课堂.json"},
-    {
-    "key":"哔哩高中",
-    "name":"📚高中｜教育",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://codeberg.org/Y00/TVBxo/raw/branch/main/shaoer/哔哩高中.json"},
-    {
-      "key": "py_xuqu1",
-      "name": "🅱️┃戏曲┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/33115/%E6%88%8F%E6%9B%B2.json?sign=dKQjA0Cnr7RHc3NkFbhjCLD7AmXE6SD5OF8pDlONKxs%3D%3A0"
-    },
-    {
-    "key":"相声小品",
-    "name":"🅱相声｜小品",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://codeberg.org/Y00/TVBxo/raw/branch/main/shaoer/哔哩相声.json"},
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+    "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
+	"sites": [
 {
-    "key":"天下美食",
-    "name":"🅱天下｜美食",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://codeberg.org/Y00/TVBxo/raw/branch/main/shaoer/哔哩美食.json"},
-      {
+          "key": "drpy_js_豆瓣",
+                "name": "🛰️接口免费，请勿贩卖🚀",
+                      "type": 3,
+                            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/libs/drpy2.min.js",
+                                  "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/js/drpy.js"
+},
+{
+        "key":"csp_XBPQ_dudu30",
+            "name":"请勿相信任何广告👨🏻‍🌾",
+                "type":3,
+                    "api":"csp_XBPQ",
+                        "searchable":1,
+                            "quickSearch":1,
+                                "filterable":0,
+                                    "ext":"{
+                                            \"请求头\":\"手机\",
+                                                \"简介\":\"介绍：&&</span>\",
+                                                    \"副标题\":\"class=\\\"other\\\">&&</p>\",
+                                                        \"线路数组\":\"playerico ico-Azhan&&/li>\",
+                                                            \"线路标题\":\"</i>&&<\",
+                                                               
+                                                                   \"分类\":\"电影$1#电视剧$2#国产剧$12#港剧$21#综艺$31#动漫$26\",
+                                                                       \"分类url\":\"http://www.dudu30.com/?m=vod-type-id-{cateId}-pg-{catePg}.html\"}"},
+{
+          "key": "央视经典",
+                "name": "📺央视｜经典",
+                      "type": 3,
+                            "api": "csp_Bili",
+                                  "searchable": 0,
+                                        "quickSearch": 1,
+                                              "filterable": 1,
+                                                    "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E5%93%94%E5%93%A9%E7%BB%8F%E5%85%B8.json"
+},
+{
+          "key": "MV",
+                "name": "结合",
+                      "type": 3,
+                            "api": "csp_Bili",
+                                  "searchable": 1,
+                                        "quickSearch": 1,
+                                              "filterable": 1,
+                                                    "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/1245410/Luck/lib/Bili.json",
+                                                          "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/1245410/Luck/lib/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"
+},
+{"key":"csp_XBPQ_胖嘟嘟","name":"🐞嘟嘟┃短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类":"全部$qb#言情$yq#古代$dg#都市$ds","分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}},
+{
+          "key": "新6V",
+                "name": "4K-HDR",
+                      "type": 3,
+                            "api": "csp_SixV",
+                                  "searchable": 1,
+                                        "quickSearch": 1,
+                                              "changeable": 0,
+                                                    "ext": "http://www.xb6v.com/"
+},
+        {
+            			"key": "葡萄短剧",
+                        			"name": "🚛葡萄┃短剧",
+                                    			"type": 3,
+                                                			"api": "csp_XBPQ",
+                                                            			"searchable": 1,
+                                                                        			"quickSearch": 1,
+                                                                                    			"filterable": 1,
+                                                                                                			"ext": "https://gitee.com/lukei7/k18/raw/Luck/putao.json"
+        },
+{
+          "key": "影视工厂",
+                "name": "影视 | 影视工厂",
+                      "type": 3,
+                            "api": "csp_XBPQ",
+                                  "searchable": 1,
+                                        "quickSearch": 1,
+                                              "filterable": 1,
+                                                    "ext": "分类url:https://www.ysgc.fun/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
+},
+    {
+              "key": "drpy_js_奇珍异兽",
+                    "name": "奇珍异兽[js]",
+                          "type": 3,
+                                "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/libs/drpy2.min.js",
+                                      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"
+    },
+        {
+                  "key": "drpy_js_优酷",
+                        "name": "优酷[js]",
+                              "type": 3,
+                                    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/libs/drpy2.min.js",
+                                          "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/js/%E4%BC%98%E9%85%B7.js"
+        },
+{
+          "key": "drpy_js_腾云驾雾",
+                "name": "腾云驾雾[js]",
+                      "type": 3,
+                            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/libs/drpy2.min.js",
+                                  "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/js/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"
+},
+{
+          "key": "drpy_js_百忙无果",
+                "name": "百忙无果[js]",
+                      "type": 3,
+                            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/libs/drpy2.min.js",
+                                  "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"
+},
+{
+    			"key": "网盘配置",
+                			"name": "⚙网盘|配置",
+                            			"type": 3,
+                                        			"api": "csp_Config",
+                                                    			"searchable": 0,
+                                                                			"changeable": 0,
+                                                                            			"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/1245410/Luck/lib/tokenm.json","jar": "https://mirror.ghproxy.com/https://github.com/1245410/Luck/blob/lib/pg.jar"
+},
+{"key":"Moli","name":"💿HDmoli|网盘","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://github.com/1245410/Luck/blob/lib/moli.json","jar": "https://mirror.ghproxy.com/https://github.com/1245410/Luck/blob/lib/pg.jar"},
+{"key":"美剧迷","name":"💿美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1","jar": "https://mirror.ghproxy.com/https://github.com/1245410/Luck/blob/lib/pg.jar"},
+
+{
+          "key": "csp_Mp4Mov",
+                "name": "➭Mp4|电影",
+                      "type": 3,
+                            "api": "csp_Mp4Mov",
+                                  "searchable": 1,
+                                        "quickSearch": 1,
+                                              "filterable": 1,"jar": "https://mirror.ghproxy.com/https://github.com/1245410/Luck/blob/lib/XYQ1.jar"
+},
+
+{
+                "key": "皮皮影视吧",
+                            "name": "🌙皮皮影视┃4K",
+                                        "type": 3,
+                                                    "api": "csp_XBPQ",
+                                                    	   "jar": "https://mirror.ghproxy.com/https://github.com/1245410/Luck/blob/lib/XBPQ.jar",
+                                                                       "playerType": "2",
+                                                                                   "ext": {
+                                                                                                       "请求头": "",
+                                                                                                                       "主页url": "https://www.pipiysb.com/",
+                                                                                                                                       "数组": "<article id=\"post-*\"&&</article>",
+                                                                                                                                                       "图片": "img src=\"&&\"",
+                                                                                                                                                                       "标题": "alt=\"&&\"",
+                                                                                                                                                                                       "副标题": "update\">&&</div>+icon-star2\">&&</div>",
+                                                                                                                                                                                                       "链接": "href=\"&&\"",
+                                                                                                                                                                                                                       "简介": "title'>&&</span>+wp-content\">&&</p",
+                                                                                                                                                                                                                                       "线路二次截取": "",
+                                                                                                                                                                                                                                                       "线路数组": "se-q'>&&</a>",
+                                                                                                                                                                                                                                                                       "线路标题": "皮皮4K专线",
+                                                                                                                                                                                                                                                                                       "多线数组": "se-q'>&&</a",
+                                                                                                                                                                                                                                                                                                       "多线链接": "href=\"&&\"",
+                                                                                                                                                                                                                                                                                                                       "播放二次截取": "playernotice&&</h2>[替换:</span>>>videourls:表题第1集题接\\&mvsource=0接表tables]",
+                                                                                                                                                                                                                                                                                                                                       "播放数组": "videourls:&&tables[替换:{\"name\":>>表题第#,\"url\":>>集题接\\&source=0\\&ep=#}>>接表]",
+                                                                                                                                                                                                                                                                                                                                                       "播放列表": "表&&表",
+                                                                                                                                                                                                                                                                                                                                                                       "播放标题": "题&&题",
+                                                                                                                                                                                                                                                                                                                                                                                       "播放链接": "接&&接",
+                                                                                                                                                                                                                                                                                                                                                                                                       "播放链接前缀": "https://www.pipiysb.com/artplayer?id=+postid-&&\"",
+                                                                                                                                                                                                                                                                                                                                                                                                                       "倒序": "0",
+                                                                                                                                                                                                                                                                                                                                                                                                                                       "影片类型": "sgeneros\">&&</div>",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                       "影片年代": "默认--dateCreated\">*,&&</span>||电影--dateCreated'>*,&&</span>",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                       "导演": "name\">&&</div>",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       "主演": "默认--演员</h2>&&<div id=\"info||电影--演员</h2>&&分享",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       "分类url": "https://www.pipiysb.com/{cateId}/page/{catePg}/[https://www.pipiysb.com/{cateId}/];;r",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       "分类": "电影&电视剧&美剧&国产剧&韩剧&番剧&评风榜",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       "分类值": "films&tv&classify/meiju&classify/guochan&classify/hanju&classify/fanju&ratings"
+                                                                                   }
+},
+{
+          "key": "csp_MeijuTT",
+                "name": "🌙美剧|天堂",
+                      "type": 3,
+                            "api": "csp_MeijuTT",
+                                  "playerType": 1,
+                                        "searchable": 1,
+                                              "quickSearch": 1,
+                                                    "filterable": 1,"jar": "https://mirror.ghproxy.com/https://github.com/1245410/Luck/blob/lib/XYQ1.jar"
+},
+{
+          "key": "csp_sxtv",
+                "name": "神仙影视🍁",
+                      "type": 3,
+                            "api": "csp_XBPQ",
+                                  "searchable": 1,
+                                        "quickSearch": 1,
+                                              "changeable": 1,
+                                                    "ext": "分类url:http://kdy.sxtv.top/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$20#电视剧$21#动漫$22#短剧$25#综艺$23#体育$24#纪录片$26"
+},
+{
+          "key": "jingluo",
+                "name": " TVB云播",
+                      "type": 3,
+                            "api": "csp_XBPQ",
+                                  "searchable": 1,
+                                        "quickSearch": 1,
+                                              "filterable": 1,
+                                                    "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E9%B2%B8%E8%90%BD.json"
+},
+{
+          "key": "春盈",
+                "name": "春盈直播",
+                      "type": 3,
+                            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/1245410/Luck/lib/sdtv.js",
+                                  "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/1245410/Luck/lib/517sdtv.txt",
+                                        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/1245410/Luck/lib/sdtv.jar"
+},
+{
+          "key": "影视",
+                "name": "猫TV直播",
+                      "type": 3,
+                            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/1245410/Luck/lib/sdtv.js",
+                                  "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/1245410/Luck/lib/sdtv.txt",
+                                        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/1245410/Luck/lib/sdtv.jar"
+},
+{"key":"鸭奈飞","name":"😎奈飞┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
+{
+          "key": "csp_午舞",
+                "name": "🅱️午舞影视|T追剧",
+                      "type": 3,
+                            "api": "csp_XBPQ",
+                                  "searchable": 1,
+                                        "quickSearch": 1,
+                                              "filterable": 1,
+                                                    "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E4%BA%94%E4%BA%94%E5%BD%B1%E8%A7%86.json"
+},
+{
+        "key":"csp_XBPQ_六度",
+            "name":"🍹六度影视",
+                "type":3,
+                    "api":"csp_XBPQ",
+                        "searchable":1,
+                            "quickSearch":1,
+                                "filterable":0,
+                                    "ext":"{
+                                            \"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
+                                                \"线路数组\":\"data-toggle&&</li>\",
+                                                    \"线路标题\":\">&&/a>\",
+                                                        \"播放链接\":\"href=\\\'&&\\\'\",
+                                                            \"播放标题\":\">&&\",
+                                                                \"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",
+                                                                    \"分类\":\"电影$1#电视剧$2#综艺$4#动漫$3\",
+                                                                        \"分类url\":\"https://6d.zzdacou.com/whole/{cateId}_______0_addtime_{catePg}.html\"}"},
+                                                                        {
+                                                                                "key":"csp_XBPQ_dudu30",
+                                                                                    "name":"🍹嘟嘟影视",
+                                                                                        "type":3,
+                                                                                            "api":"csp_XBPQ",
+                                                                                                "searchable":1,
+                                                                                                    "quickSearch":1,
+                                                                                                        "filterable":0,
+                                                                                                            "ext":"{
+                                                                                                                    \"请求头\":\"手机\",
+                                                                                                                        \"简介\":\"介绍：&&</span>\",
+                                                                                                                            \"副标题\":\"class=\\\"other\\\">&&</p>\",
+                                                                                                                                \"线路数组\":\"playerico ico-Azhan&&/li>\",
+                                                                                                                                    \"线路标题\":\"</i>&&<\",
+                                                                                                                                       
+                                                                                                                                           \"分类\":\"电影$1#电视剧$2#国产剧$12#港剧$21#综艺$31#动漫$26\",
+                                                                                                                                               \"分类url\":\"http://www.dudu30.com/?m=vod-type-id-{cateId}-pg-{catePg}.html\"}"},
+{
+          "key": "csp_Anime1",
+                "name": "📖日漫┃动漫┃蓝光",
+                      "type": 3,
+                            "api": "csp_Anime1",
+                                  "searchable": 1,
+                                        "quickSearch": 1,
+                                              "changeable": 1
+},
+{
+          "key": "csp_Ysj",
+                "name": "💫异界┃动漫┃蓝光",
+                      "type": 3,
+                            "api": "csp_Ysj",
+                                  "searchable": 1,
+                                        "quickSearch": 1,
+                                              "changeable": 1
+},
+{
+          "key": "csp_Dm84",
+                "name": "🚌动漫┃巴士┃蓝光",
+                      "type": 3,
+                            "api": "csp_Dm84",
+                                  "searchable": 1,
+                                        "quickSearch": 1,
+                                              "changeable": 1
+},
+{
+          "key": "csp_qiumi",
+                "name": "⚽ Jrs┃球迷",
+                      "type": 3,
+                            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/libs/drpy2.min.js",
+                                  "ext": "https://gitee.com/lukei7/lib/raw/Luck/jrk.js",
+                                        "style": {
+                                                    "type": "list"
+                                        },
+                                              "searchable": 0,
+                                                    "quickSearch": 0,
+                                                          "changeable": 0
+},
+{
+              "key": "csp_达龟",
+                              "name": "🅱️达龟影院|T追剧",
+                                                    "type": 3,
+                                                                                "api": "csp_XBPQ",
+                                                                                                                  "searchable": 1,
+                                                                                                                                                          "quickSearch": 1,
+                                                                                                                                                                                                        "filterable": 1,
+                                                                                                                                                                                                                                                            "ext": "https://gitee.com/lukei7/k18/raw/Luck/%E8%BE%BE%E8%BE%BE%E9%BE%9F%E5%BD%B1%E8%A7%86.json"
+},
+    
+{
+              "key": "索尼资源",
+                    "name": "🎀索尼采集",
+                          "type": 1,
+                                "api": "https://suoniapi.com/api.php/provide/vod/",
+                                      "searchable": 1,
+                                            "changeable": 1,
+                                                  "categories": [
+                                                              "动作片",
+                                                                      "喜剧片",
+                                                                              "爱情片",
+                                                                                      "科幻片",
+                                                                                              "恐怖片",
+                                                                                                      "剧情片",
+                                                                                                              "战争片",
+                                                                                                                      "纪录片",
+                                                                                                                              "动画片",
+                                                                                                                                      "国产剧",
+                                                                                                                                              "欧美剧",
+                                                                                                                                                      "韩剧",
+                                                                                                                                                              "日剧",
+                                                                                                                                                                      "港剧",
+                                                                                                                                                                              "台剧",
+                                                                                                                                                                                      "泰剧",
+                                                                                                                                                                                              "海外剧",
+                                                                                                                                                                                                      "大陆综艺",
+                                                                                                                                                                                                              "日韩综艺",
+                                                                                                                                                                                                                      "港台综艺",
+                                                                                                                                                                                                                              "欧美综艺",
+                                                                                                                                                                                                                                      "国产动漫",
+                                                                                                                                                                                                                                              "日韩动漫",
+                                                                                                                                                                                                                                                      "欧美动漫",
+                                                                                                                                                                                                                                                              "港台动漫",
+                                                                                                                                                                                                                                                                      "海外动漫"
+                                                  ]
+    },
+        {
+                  "key": "光速资源",
+                        "name": "🎀光速┃采集🎀",
+                              "type": 1,
+                                    "api": "http://api.guangsuapi.com/api.php/provide/vod/",
+                                          "searchable": 1,
+                                                "changeable": 1,
+                                                      "categories": [
+                                                                  "动作片",
+                                                                          "喜剧片",
+                                                                                  "爱情片",
+                                                                                          "科幻片",
+                                                                                                  "剧情片",
+                                                                                                          "恐怖片",
+                                                                                                                  "战争片",
+                                                                                                                          "动漫电影",
+                                                                                                                                  "大陆剧",
+                                                                                                                                          "欧美剧",
+                                                                                                                                                  "港澳剧",
+                                                                                                                                                          "韩剧",
+                                                                                                                                                                  "日剧",
+                                                                                                                                                                          "台湾剧",
+                                                                                                                                                                                  "泰剧",
+                                                                                                                                                                                          "综艺",
+                                                                                                                                                                                                  "动漫",
+                                                                                                                                                                                                          "记录片"
+                                                      ]
+        },
+            {
+                      "key": "极速资源",
+                            "name": "🎀极速┃采集🎀",
+                                  "type": 1,
+                                        "api": "https://jszyapi.com/api.php/provide/vod/",
+                                              "searchable": 1,
+                                                    "changeable": 1,
+                                                          "categories": [
+                                                                      "日剧",
+                                                                              "马泰剧",
+                                                                                      "内地剧",
+                                                                                              "欧美剧",
+                                                                                                      "香港剧",
+                                                                                                              "韩剧",
+                                                                                                                      "台湾剧",
+                                                                                                                              "恐怖片",
+                                                                                                                                      "动画片",
+                                                                                                                                              "剧情片",
+                                                                                                                                                      "战争片",
+                                                                                                                                                              "动作片",
+                                                                                                                                                                      "记录片",
+                                                                                                                                                                              "爱情片",
+                                                                                                                                                                                      "喜剧片",
+                                                                                                                                                                                              "科幻片",
+                                                                                                                                                                                                      "灾难片",
+                                                                                                                                                                                                              "悬疑片",
+                                                                                                                                                                                                                      "犯罪片",
+                                                                                                                                                                                                                              "中国动漫",
+                                                                                                                                                                                                                                      "日本动漫",
+                                                                                                                                                                                                                                              "欧美动漫"
+                                                          ]
+            },
+                {
+
+                    			"key": "石榴影视",
+
+                                			"name": "🚛石榴┃秒播",
+
+                                            			"type": 3,
+
+                                                        			"api": "csp_XBPQ",
+
+                                                                    			"searchable": 1,
+
+                                                                                			"quickSearch": 1,
+
+                                                                                            			"filterable": 1,
+
+                                                                                                        			"ext": "https://gitee.com/lukei7/k18/raw/Luck/shiliu.json"
+
+                },
+                {
+                              "key": "huahai",
+                                              "name": "4K-HDR—花海|弹幕",
+                                                                    "type": 3,
+                                                                                                "api": "csp_Jianpian",
+                                                                                                                                  "jar": "https://gitee.com/lukei7/k18/raw/Luck/wyok.jar",
+                                                                                                                                                                          "searchable": 1,
+                                                                                                                                                                                                                        "quickSearch": 1,
+                                                                                                                                                                                                                                                                            "filterable": 1,
+                                                                                                                                                                                                                                                                                                                                      "ext": {
+                                                                                                                                                                                                                                                                                                                                                                                                                "danmu": true
+                                                                                                                                                                                                                                                                                                                                      }
+                },
+{
+                          "key": "cjzy_暴风资源",
+                                                      "name": "📺︎┃暴风┃1080P",
+                                                                                        "type": 1,
+                                                                                                                                "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+                                                                                                                                                                              "playUrl": "",
+                                                                                                                                                                                                                                  "categories": [
+                                                                                                                                                                                                                                                                                                      "国产剧",
+                                                                                                                                                                                                                                                                                                                                                                              "国产动漫",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                              "大陆综艺",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      "港台综艺",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      "香港剧",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              "台湾剧",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              "日本剧",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      "欧美剧",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      "泰国剧",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              "日本动漫",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              "日本综艺",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      "综艺频道",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      "新马泰综艺",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              "纪录片",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              "科幻片",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      "喜剧片",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      "战争片"
+                                                                                                                                                                                                                                  ]
+},
+                {
+                                              "key": "csp_beijihu",
+                                                                              "name": "📺︎┃极狐┃1080P",
+                                                                                                                    "type": 3,
+                                                                                                                                                                "api": "csp_AppYsV2",
+                                                                                                                                                                                                                 "searchable": 1,
+                                                                                                                                                                                                                                                                          "quickSearch": 1,
+                                                                                                                                                                                                                                                                                                                                        "filterable": 1,
+                                                                                                                                                                                                                                                                                                                                                                                                            "ext": "https://www.kuin.one/api.php/app/"
+                },
+{"key":"Y豪华资源","name":"🛫豪华原生","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"T索尼资源","name":"🎀┃索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"Z新浪资源","name":"🐺┃新浪","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"feidaozy资源","name":"✈️┃飞刀","type":1,"api":"http://www.feidaozy.com/api.php/provide/vod","searchable":1,"quickSearch":1},
+    {"key":"Y红牛资源","name":"🐮┃红牛","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"🗿优质资源","name":"🗿┃优质","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php?ac=lis","searchable":1,"quickSearch":1},
+    {"key":"🐉卧龙资源","name":"🐉┃卧龙","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"🆔百度资源","name":"🆔┃百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+    {"key":"🈁CK资源","name":"🈁┃CK","type":1,"api":"https://ckzy.me/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+    {"key":"🎀Y光速资源","name":"🎐┃光速","type":1,"api":"http://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"🎀Y极速资源","name":"🎊┃极速","type":1,"api":"https://jszyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"🎀Y暴风资源","name":"📺︎┃暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+    {"key":"👽高清资源","name":"👽┃高清","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","searchable":1,"quickSearch":1},
+    {"key":"🆖ikun资源","name":"🆖┃ikun","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json","searchable":1,"quickSearch":1},
+    {"key":"🎪量子资源","name":"🎪┃量子","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
+    {"key":"🚁飞速资源","name":"🚁┃飞速","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+    {"key":"🌞天空资源","name":"🌞┃天空","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":1,"quickSearch":1},
+    {"key":"🆕非凡资源","name":"🆕┃非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"🏎快车资源","name":"🏎┃快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+    {"key":"Y火狐资源","name":"🦊┃茶杯","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
+
+
+		
+		{
+      "key": "Bili",
+      "name": "🅱哔哔┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/1245410/Luck/main/bilibili.json"
+    },
+{
       "key": "Biliych",
       "name": "🅱哔哔┃歌曲",
       "type": 3,
@@ -903,655 +521,743 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/json/biliych.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/1245410/Luck/main/biliych.json"
     },
     {
-      "key": "MV_vod",
-      "name": "🎸明星┃MV",
-      "type": 1,
-      "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+          "key": "csp_不卡",
+                "name": "🅱️不卡影视|T追剧",
+                      "type": 3,
+                            "api": "csp_XBPQ",
+                                  "searchable": 1,
+                                        "quickSearch": 1,
+                                              "filterable": 1,
+                                                    "ext": "https://gitee.com/lukei7/k18/raw/Luck/%E7%9C%9F%E4%B8%8D%E5%8D%A1%E5%BD%B1%E8%A7%86.json"
+},
+{
+              "key": "keke",
+                    "name": "影视 | 可可影视",
+                          "type": 3,
+                                "api": "csp_XBPQ",
+                                      "searchable": 1,
+                                            "jar": "https://gitee.com/lukei7/k18/raw/Luck/1.jar",
+                                                  "quickSearch": 1,
+                                                        "changeable": 1,
+                                                              "ext": {
+                                                                          "分类url": "https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}--{catePg}.html",
+                                                                                  "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$6"
+                                                              }
     },
     {
-      "key": "js_哔哩直播",
-      "name": "🅱️┃哔哩┃直播",
-      "type": 3,
-      "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://weixine.net/js/blzb.js"
-    },
-     
-    {
-      "key": "csp_XBPQ_短视频",
-      "name": "☘️短视频",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://weixine.net/sub/duanshipin.json",
-      "jar": "http://111.67.195.139/yydf/lib/JGWO.jar;md5;38eff96e7b3b784b623af0957cc9b658"
-    },
-     {
-      "key": "虎牙直播",
-      "name": "🐯虎牙┃直播",
-      "type": 3,
-      "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://weixine.net/js/huyazhibo.js"
-    },
-    {
-      "key": "网易CC",
-      "name": "🐠┃网易┃[CC]",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/网易CC.json"
-    },
-    {
-      "key": "js_斗鱼直播",
-      "name": "🦈┃斗鱼┃直播",
-      "type": 3,
-      "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://weixine.net/js/douyu.js"
+              "key": "小灯塔百科",
+                    "name": "教育 | 小灯塔百科",
+                          "type": 3,
+                                "api": "csp_Bili",
+                                      "searchable": 0,
+                                            "quickSearch": 1,
+                                                  "filterable": 1,
+                                                        "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E5%B0%8F%E7%81%AF%E5%A1%94%E7%99%BE%E7%A7%91.json"
     },
         {
-      "key": "88看球",
-      "name": "⚽88看球",
-      "type": 3,
-      "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://weixine.net/js/88kanqiu.js"
+                  "key": "小灯塔科学",
+                        "name": "教育 | 小灯塔科学",
+                              "type": 3,
+                                    "api": "csp_Bili",
+                                          "searchable": 0,
+                                                "quickSearch": 1,
+                                                      "filterable": 1,
+                                                            "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E5%B0%8F%E7%81%AF%E5%A1%94%E7%A7%91%E5%AD%A6.json"
+        },
+            {
+                      "key": "小灯塔地理",
+                            "name": "教育 | 小灯塔地理",
+                                  "type": 3,
+                                        "api": "csp_Bili",
+                                              "searchable": 0,
+                                                    "quickSearch": 1,
+                                                          "filterable": 1,
+                                                                "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E5%B0%8F%E7%81%AF%E5%A1%94%E5%9C%B0%E7%90%86.json"
+            },
+                {
+                          "key": "小灯塔国学",
+                                "name": "教育 | 小灯塔国学",
+                                      "type": 3,
+                                            "api": "csp_Bili",
+                                                  "searchable": 0,
+                                                        "quickSearch": 1,
+                                                              "filterable": 1,
+                                                                    "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E5%B0%8F%E7%81%AF%E5%A1%94%E5%9B%BD%E5%AD%A6.json"
+                },
+                    {
+                              "key": "小灯塔人文",
+                                    "name": "教育 | 小灯塔人文",
+                                          "type": 3,
+                                                "api": "csp_Bili",
+                                                      "searchable": 0,
+                                                            "quickSearch": 1,
+                                                                  "filterable": 1,
+                                                                        "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E5%B0%8F%E7%81%AF%E5%A1%94%E4%BA%BA%E6%96%87.json"
+                    },
+{
+    			"key": "酷狗",
+                			"name": "🎵酷狗|音乐",
+                            			"type": 3,
+                                        			"api": "csp_Kugou",
+                                                    			"searchable": 1,
+                                                                			"changeable": 0,"jar": "https://mirror.ghproxy.com/https://github.com/1245410/Luck/blob/lib/pg.jar"
+},
+    {
+              "key": "幼儿教育",
+                    "name": "幼小｜教育",
+                          "type": 3,
+                                "api": "csp_Bili",
+                                      "searchable": 0,
+                                            "quickSearch": 1,
+                                                  "filterable": 1,
+                                                        "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E5%93%94%E5%93%A9%E5%B9%BC%E5%B0%8F.json"
     },
+        {
+            "key": "少儿教育",
+            "name": "📚少儿┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"
+        },
+        {
+            "key": "小学课堂",
+            "name": "📚小学┃课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"
+        },
+        {
+            "key": "初中课堂",
+            "name": "📚初中┃课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
+        },
+        {
+            "key": "高中教育",
+            "name": "📚高中┃课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
+        }],
+        "parses":[
+{
+          "name": "Web聚合",
+                "type": 3,
+                      "url": "Web"
+},
     {
-      "key": "JRKAN直播",
-      "name": "⚽JRKAN直播",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://weixine.net/sub/jrkan.json",
-      "jar": "http://111.67.195.139/yydf/lib/JGWO.jar;md5;38eff96e7b3b784b623af0957cc9b658"
+              "name": "-咸鱼-",
+                    "type": 0,
+                          "url": "https://jx.xyflv.cc/?url=",
+                                "ext": {
+                                            "header": {
+                                                          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+                                                                    "referer": "https://www.xyflv.cc/"
+                                            }
+                                }
     },
-     {"key":"drpy_js_抓饭体育","name":"💥抓饭┃体育","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/抓饭体育.js"},
-		{"key":"drpy_js_啦啦DJ","name":"DJ | 音乐","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/苹果DJ.js","playerType":"2"},
-		{"key":"drpy_js_清风DJ","name":"DJ| 音乐","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/清风DJ.js","playerType":"2"},
-		{"key":"drpy_js_相声随身听","name":"相声 | 小品","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/相声随身听.js","playerType":"2"},
-    {
-      "key": "提示",
-      "name": "公众号：盒锦",
-      "type": 3,
-      "api": "360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "说明",
-      "name": "软件接口完全免费",
-      "type": 3,
-      "api": "360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    }
-  ],
-  "lives": [
-    {
-      "name": "影视",
-      "url": "https://bitbucket.org/xduo/duoapi/raw/master/v.txt",
+        {
+                  "name": "-虾米-",
+                        "type": 0,
+                              "url": "https://jx.xmflv.com/?url=",
+                                    "ext": {
+                                                "header": {
+                                                              "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                                                }
+                                    }
+        },
+            {
+                      "name": "-爱酷-",
+                            "type": 0,
+                                  "url": "https://jx.zhanlangbu.com/?url=",
+                                        "ext": {
+                                                    "flag": [
+                                                                  "qq",
+                                                                            "腾讯",
+                                                                                      "qiyi",
+                                                                                                "爱奇艺",
+                                                                                                          "奇艺",
+                                                                                                                    "youku",
+                                                                                                                              "优酷",
+                                                                                                                                        "mgtv",
+                                                                                                                                                  "芒果",
+                                                                                                                                                            "letv",
+                                                                                                                                                                      "乐视",
+                                                                                                                                                                                "pptv",
+                                                                                                                                                                                          "PPTV",
+                                                                                                                                                                                                    "sohu",
+                                                                                                                                                                                                              "bilibili",
+                                                                                                                                                                                                                        "哔哩哔哩",
+                                                                                                                                                                                                                                  "哔哩"
+                                                    ],
+                                                            "ext": {
+                                                                          "header": {
+                                                                                          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                                                                          }
+                                                            }
+                                        }
+            },
+                {
+                          "name": "-云解析-",
+                                "type": 0,
+                                      "url": "https://jx.yparse.com/index.php?url=",
+                                            "ext": {
+                                                        "header": {
+                                                                      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                                                        }
+                                            }
+                },
+                    {
+                              "name": "-777-",
+                                    "type": 0,
+                                          "url": "https://jx.jsonplayer.com/player/?url=",
+                                                "ext": {
+                                                            "header": {
+                                                                          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                                                            }
+                                                }
+                    },
+                        {
+                                  "name": "-剖云-",
+                                        "type": 0,
+                                              "url": "https://www.kkvip2022.com/vip/jiexi1/?url=",
+                                                    "ext": {
+                                                                "header": {
+                                                                              "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                                                                }
+                                                    }
+                        },
+                            {
+                                      "name": "-全看-",
+                                            "type": 0,
+                                                  "url": "https://jx.quankan.app/?url=",
+                                                        "ext": {
+                                                                    "header": {
+                                                                                  "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                                                                    }
+                                                        }
+                            },
+                            {
+                                      "name": "观音解析",
+                                            "type": 1,
+                                                  "url": "http://61.147.93.21:8090/index.php?url=",
+                                                        "ext": {
+                                                                    "flag": [
+                                                                                  "qq",
+                                                                                            "腾讯",
+                                                                                                      "企鹅",
+                                                                                                                "IQiYi",
+                                                                                                                          "qiyi",
+                                                                                                                                    "爱奇艺",
+                                                                                                                                              "奇艺",
+                                                                                                                                                        "youku",
+                                                                                                                                                                  "YouKu",
+                                                                                                                                                                            "优酷",
+                                                                                                                                                                                      "sohu",
+                                                                                                                                                                                                "SoHu",
+                                                                                                                                                                                                          "搜狐",
+                                                                                                                                                                                                                    "letv",
+                                                                                                                                                                                                                              "LeShi",
+                                                                                                                                                                                                                                        "乐视",
+                                                                                                                                                                                                                                                  "imgo",
+                                                                                                                                                                                                                                                            "mgtv",
+                                                                                                                                                                                                                                                                      "MangGuo",
+                                                                                                                                                                                                                                                                                "芒果",
+                                                                                                                                                                                                                                                                                          "SLYS4k",
+                                                                                                                                                                                                                                                                                                    "BYGA",
+                                                                                                                                                                                                                                                                                                              "luanzi",
+                                                                                                                                                                                                                                                                                                                        "AliS",
+                                                                                                                                                                                                                                                                                                                                  "dxzy",
+                                                                                                                                                                                                                                                                                                                                            "bilibili",
+                                                                                                                                                                                                                                                                                                                                                      "QEYSS",
+                                                                                                                                                                                                                                                                                                                                                                "xigua",
+                                                                                                                                                                                                                                                                                                                                                                          "西瓜视频",
+                                                                                                                                                                                                                                                                                                                                                                                    "腾讯视频",
+                                                                                                                                                                                                                                                                                                                                                                                              "奇艺视频",
+                                                                                                                                                                                                                                                                                                                                                                                                        "优酷视频",
+                                                                                                                                                                                                                                                                                                                                                                                                                  "芒果视频",
+                                                                                                                                                                                                                                                                                                                                                                                                                            "乐视视频"
+                                                                    ]
+                                                        }
+                            },
+                                {
+                                          "name": "茶杯解析",
+                                                "type": 1,
+                                                      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
+                                                            "ext": {
+                                                                        "flag": [
+                                                                                      "qq",
+                                                                                                "腾讯",
+                                                                                                          "企鹅",
+                                                                                                                    "IQiYi",
+                                                                                                                              "qiyi",
+                                                                                                                                        "爱奇艺",
+                                                                                                                                                  "奇艺",
+                                                                                                                                                            "youku",
+                                                                                                                                                                      "YouKu",
+                                                                                                                                                                                "优酷",
+                                                                                                                                                                                          "sohu",
+                                                                                                                                                                                                    "SoHu",
+                                                                                                                                                                                                              "搜狐",
+                                                                                                                                                                                                                        "letv",
+                                                                                                                                                                                                                                  "LeShi",
+                                                                                                                                                                                                                                            "乐视",
+                                                                                                                                                                                                                                                      "imgo",
+                                                                                                                                                                                                                                                                "mgtv",
+                                                                                                                                                                                                                                                                          "MangGuo",
+                                                                                                                                                                                                                                                                                    "芒果",
+                                                                                                                                                                                                                                                                                              "SLYS4k",
+                                                                                                                                                                                                                                                                                                        "BYGA",
+                                                                                                                                                                                                                                                                                                                  "luanzi",
+                                                                                                                                                                                                                                                                                                                            "AliS",
+                                                                                                                                                                                                                                                                                                                                      "dxzy",
+                                                                                                                                                                                                                                                                                                                                                "bilibili",
+                                                                                                                                                                                                                                                                                                                                                          "QEYSS",
+                                                                                                                                                                                                                                                                                                                                                                    "xigua",
+                                                                                                                                                                                                                                                                                                                                                                              "西瓜视频",
+                                                                                                                                                                                                                                                                                                                                                                                        "腾讯视频",
+                                                                                                                                                                                                                                                                                                                                                                                                  "奇艺视频",
+                                                                                                                                                                                                                                                                                                                                                                                                            "优酷视频",
+                                                                                                                                                                                                                                                                                                                                                                                                                      "芒果视频",
+                                                                                                                                                                                                                                                                                                                                                                                                                                "乐视视频"
+                                                                        ]
+                                                            }
+                                },
+                                    {
+                                              "name": "盖碗解析",
+                                                    "type": 1,
+                                                          "url": "http://119.91.123.253:1234/Api/cs.php?url=2449&my=acfgikquvzFGJRW459&url=",
+                                                                "ext": {
+                                                                            "flag": [
+                                                                                          "qiyi",
+                                                                                                    "爱奇艺",
+                                                                                                              "奇艺",
+                                                                                                                        "youku",
+                                                                                                                                  "优酷",
+                                                                                                                                            "mgtv",
+                                                                                                                                                      "芒果",
+                                                                                                                                                                "letv",
+                                                                                                                                                                          "乐视",
+                                                                                                                                                                                    "pptv",
+                                                                                                                                                                                              "PPTV",
+                                                                                                                                                                                                        "sohu",
+                                                                                                                                                                                                                  "xigua",
+                                                                                                                                                                                                                            "bilibili",
+                                                                                                                                                                                                                                      "哔哩哔哩",
+                                                                                                                                                                                                                                                "哔哩"
+                                                                            ],
+                                                                                    "header": {
+                                                                                                  "User-Agent": "okhttp/4.1.0"
+                                                                                    }
+                                                                }
+                                    },
+                                        {
+                                                  "name": "白茶嗅探",
+                                                        "url": "https://jx.bozrc.com:4433/player/?url=",
+                                                              "showType": 1
+                                        },
+                                            {
+                                                      "name": "滇红嗅探",
+                                                            "type": 0,
+                                                                  "url": "https://jx.777jiexi.com/player/?url="
+                                            },
+                                            {
+                                                      "name": "毛尖嗅探",
+                                                            "type": 0,
+                                                                  "url": "https://jx.bozrc.com:4433/player/?url=",
+                                                                        "ext": {
+                                                                                    "header": {
+                                                                                                  "User-Agent": "okhttp/4.1.0"
+                                                                                    },
+                                                                                            "flag": [
+                                                                                                          "qq",
+                                                                                                                    "腾讯",
+                                                                                                                              "qiyi",
+                                                                                                                                        "爱奇艺",
+                                                                                                                                                  "奇艺",
+                                                                                                                                                            "youku",
+                                                                                                                                                                      "优酷",
+                                                                                                                                                                                "mgtv",
+                                                                                                                                                                                          "芒果",
+                                                                                                                                                                                                    "letv",
+                                                                                                                                                                                                              "leshi",
+                                                                                                                                                                                                                        "LS",
+                                                                                                                                                                                                                                  "乐视",
+                                                                                                                                                                                                                                            "pptv",
+                                                                                                                                                                                                                                                      "PPTV",
+                                                                                                                                                                                                                                                                "sohu",
+                                                                                                                                                                                                                                                                          "bilibili",
+                                                                                                                                                                                                                                                                                    "哔哩哔哩",
+                                                                                                                                                                                                                                                                                              "哔哩"
+                                                                                            ]
+                                                                        }
+                                            },
+                                                {
+                                                          "name": "青柑嗅探",
+                                                                "type": 0,
+                                                                      "url": "http://www.miaoys.cc/vip/?url="
+                                                },
+                                                    {
+                                                              "name": "岩茶嗅探",
+                                                                    "type": 0,
+                                                                          "url": "https://jx.ppjbk.cn/?url=",
+                                                                                "ext": {
+                                                                                            "header": {
+                                                                                                          "User-Agent": "Mozilla/5.0"
+                                                                                            }
+                                                                                }
+                                                    },
+                                                        {
+                                                                  "name": "小种嗅探",
+                                                                        "type": 0,
+                                                                              "url": "https://jx.jsonplayer.com/player/?url="
+                                                        },          
+                                {
+                                          "name": "-爱豆-",
+                                                "type": 0,
+                                                      "url": "https://jx.aidouer.net/?url=",
+                                                            "ext": {
+                                                                        "header": {
+                                                                                      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+                                                                                                "referer": "https://jiejie.uk/"
+                                                                        }
+                                                            }
+                                }
+        ],
+"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","kuying -you","YuMi-vip","douyin","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
+
+"rules": [
+	    {
+	    	"name": "嗅探过滤",
+	    	"host": "*",
+	    	"rule": [
+	    		"http((?!http).){12,}?\\.(m3u8|mp4|ts|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
+	    	],
+	    	"filter": [
+	    		"http((?!http).){12,}?\\.(js|css|png|jpg|png|ico|ru=)\\?.*"
+	    	]
+	    
+	    }
+	],
+"rules": [
+	    {
+	    	"name": "嗅探过滤",
+	    	"host": "*",
+	    	"rule": [
+	    		"http((?!http).){12,}?\\.(m3u8|mp4|ts|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
+	    	],
+	    	"filter": [
+	    		"http((?!http).){12,}?\\.(js|css|png|jpg|png|ico|ru=)\\?.*"
+	    	]
+	    
+	    }
+	],
+ "rules": [
+	    {
+	    	"name": "嗅探过滤",
+	    	"host": "*",
+	    	"rule": [
+	    		"http((?!http).){12,}?\\.(m3u8|mp4|ts|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
+	    	],
+	    	"filter": [
+	    		"http((?!http).){12,}?\\.(js|css|png|jpg|png|ico|ru=)\\?.*"
+	    	]
+	    
+	    }
+	],
+ "rules": [
+    {"host": "*","rule": ["default.365yg.com"]},
+    {"host": "dyxs20.com","rule": [".m3u8"]},
+    {"host": "www.agemys.cc","rule": ["cdn-tos","obj/tos-cn"]},
+    {"host": "zjmiao.com","rule": ["play.videomiao.vip/API.php","time="]},
+    {"host": "www.sharenice.net","rule": ["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]},
+    {"host": "www.sharenice.net","rule": ["qianpailive.com","vid="]},
+    {"host": "*","rule": ["douyin.com/aweme","video_id="]},
+    {"host": "*","rule": ["huoshan.com","/item/video/"]},
+    {"host": "*","rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
+    {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
+    "lives" : [
+            {
+      "name": "sao0",
       "type": 0,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/1245410/Luck/main/tvlive.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXRidWNrZXQub3JnL3hkdW8vZHVvYXBpL3Jhdy9tYXN0ZXIvdi50eHQ="
-          ]
-        }
-      ]
+      "name": "ipv6",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }],
+    "spider": "https://gitee.com/lukei7/k18/raw/Luck/Yoursmile.jar;md5;a8b67c6e7ae00f56c43f6946764f0102",
+	"lives": [
+    {
+      "name": "live2",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/1245410/Luck/main/tvlive.txt",
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "rules": [
-    {
-      "name": "量子",
-      "hosts": [
-        "vip.lz",
-        "hd.lz"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-      ]
-    },
-    {
-      "name": "非凡",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-      ]
-    },
-    {
-      "name": "火山",
-      "hosts": [
-        "huoshan.com"
-      ],
-      "regex": [
-        "item_id="
-      ]
-    },
-    {
-      "name": "抖音",
-      "hosts": [
-        "douyin.com"
-      ],
-      "regex": [
-        "is_play_url="
-      ]
-    }
-  ],
-  "parses": [
-    {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "并发",
-      "type": 2,
-      "url": "Parallel"
-    },
-    {
-      "name": "轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-    {
-      "name": "自动解析",
-      "type": 1,
-      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
-    },
-    {
-      "name": "手动解析",
-      "type": 1,
-      "url": "http://json.xg688.top/api/?key=ApHG2jGcimQWPOj5mO&url="
-    },
-    {
-      "name": "1号线",
-      "type": 0,
-      "url": "https://vip.lianfaka.com/vip/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "2号线",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-    {
-      "name": "3号线",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "4号线",
-      "type": 0,
-      "url": "https://www.pouyun.com/?url="
-    },
-    {
-      "name": "5号线",
-      "type": 0,
-      "url": "https://api.jiexi.la/?url="
-    },
-    {
-      "name": "6号线",
-      "type": 0,
-      "url": "https://www.pangujiexi.com/pangu/?url="
-    },
-    {
-      "name": "7号线",
-      "type": 0,
-      "url": "https://parse.mw0.cc/?url="
-    },
-    {
-      "name": "8号线",
-      "type": 0,
-      "url": "https://jx.iztyy.com/svip/?url="
-    },
-    {
-      "name": "9号线",
-      "type": 0,
-      "url": "https://jx.ppflv.com/?url="
-    },
-    {
-      "name": "10号线",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "name": "11号线",
-      "type": 0,
-      "url": "https://jx.xyflv.com/?url="
-    },
-    {
-      "name": "12号线",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-    {
-      "name": "13号线",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url="
-    },
-    {
-      "name": "14号线",
-      "type": 0,
-      "url": "https://jx.parwix.com:4433/player/analysis.php?v=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "15号线",
-      "type": 0,
-      "url": "https://www.nxflv.com/?url="
-    },
-    {
-      "name": "16号线",
-      "type": 0,
-      "url": "https://www.yemu.xyz/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "17号线",
-      "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        },
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-     {
-      "name": "18号线",
-      "type": 1,
-      "url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "imgo",
-          "YuMi-vip"
-        ]
-      }
-    },
-    {
-      "name": "19号线",
-      "type": 1,
-      "url": "https://www.qiaoji8.com/tvbox/json.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-      }
-    },
-    {
-      "name": "20号线",
-      "type": 0,
-      "url": "https://jx.m3u8.pw/?url="
-    }
-  ],
-  "flags": [
-    "youku",
-    "优酷",
-    "优 酷",
-    "优酷视频",
-    "qq",
-    "腾讯",
-    "腾 讯",
-    "腾讯视频",
-    "iqiyi",
-    "qiyi",
-    "奇艺",
-    "爱奇艺",
-    "爱 奇 艺",
-    "m1905",
-    "xigua",
-    "letv",
-    "leshi",
-    "乐视",
-    "乐 视",
-    "sohu",
-    "搜狐",
-    "搜 狐",
-    "搜狐视频",
-    "tudou",
-    "pptv",
-    "mgtv",
-    "芒果",
-    "imgo",
-    "芒果TV",
-    "芒 果 T V",
-    "bilibili",
-    "哔 哩",
-    "哔 哩 哔 哩"
-  ],
-  "ijk": [
-    {
-      "group": "软解码",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "max-buffer-size",
-          "value": "5242880"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
-      ]
-    },
-    {
-      "group": "硬解码",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "max-buffer-size",
-          "value": "5242880"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
-      ]
-    }
-  ],
-  "ads": [
-    "wan.51img1.com",
-    "iqiyi.hbuioo.com",
-    "vip.ffzyad.com",
-    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
-  ],
-  "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "warningText": "接口免费整理维护，请勿付费购买",
-  "spider": "https://agit.ai/alive/c/raw/branch/master/j/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
-  //https://agit.ai/alive/c/raw/branch/master/j/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171
+	"ijk": [
+		{
+			"group": "硬解码",
+			"options": [
+				{
+					"category": 4,
+					"name": "opensles",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "overlay-format",
+					"value": "842225234"
+				},
+				{
+					"category": 4,
+					"name": "framedrop",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "soundtouch",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "start-on-prepared",
+					"value": "1"
+				},
+				{
+					"category": 1,
+					"name": "http-detect-range-support",
+					"value": "0"
+				},
+				{
+					"category": 1,
+					"name": "fflags",
+					"value": "fastseek"
+				},
+				{
+					"category": 2,
+					"name": "skip_loop_filter",
+					"value": "48"
+				},
+				{
+					"category": 4,
+					"name": "reconnect",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "enable-accurate-seek",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-auto-rotate",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-handle-resolution-change",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-hevc",
+					"value": "1"
+				},
+				{
+					"category": 1,
+					"name": "dns_cache_timeout",
+					"value": "600000000"
+				}
+			]
+		},
+		{
+			"group": "软解码",
+			"options": [
+				{
+					"category": 4,
+					"name": "opensles",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "overlay-format",
+					"value": "842225234"
+				},
+				{
+					"category": 4,
+					"name": "framedrop",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "soundtouch",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "start-on-prepared",
+					"value": "1"
+				},
+				{
+					"category": 1,
+					"name": "http-detect-range-support",
+					"value": "0"
+				},
+				{
+					"category": 1,
+					"name": "fflags",
+					"value": "fastseek"
+				},
+				{
+					"category": 2,
+					"name": "skip_loop_filter",
+					"value": "48"
+				},
+				{
+					"category": 4,
+					"name": "reconnect",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "enable-accurate-seek",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-auto-rotate",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-handle-resolution-change",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-hevc",
+					"value": "0"
+				},
+				{
+					"category": 1,
+					"name": "dns_cache_timeout",
+					"value": "600000000"
+				}
+			]
+		}
+	],
+	"ads": [
+		"mimg.0c1q0l.cn",
+		"www.googletagmanager.com",
+		"www.google-analytics.com",
+		"mc.usihnbcq.cn",
+		"mg.g1mm3d.cn",
+		"mscs.svaeuzh.cn",
+		"cnzz.hhttm.top",
+		"tp.vinuxhome.com",
+		"cnzz.mmstat.com",
+		"www.baihuillq.com",
+		"s23.cnzz.com",
+		"z3.cnzz.com",
+		"c.cnzz.com",
+		"stj.v1vo.top",
+		"z12.cnzz.com",
+		"img.mosflower.cn",
+		"tips.gamevvip.com",
+		"ehwe.yhdtns.com",
+		"xdn.cqqc3.com",
+		"www.jixunkyy.cn",
+		"sp.chemacid.cn",
+		"hm.baidu.com",
+		"videocdn-znjson.cos.ap-guangzhou.cluod.cn/v9-default-nsdsb",
+		"s9.cnzz.com",
+		"z6.cnzz.com",
+		"um.cavuc.com",
+		"mav.mavuz.com",
+		"wofwk.aoidf3.com",
+		"z5.cnzz.com",
+		"xc.hubeijieshikj.cn",
+		"tj.tianwenhu.com",
+		"xg.gars57.cn",
+		"k.jinxiuzhilv.com",
+		"cdn.bootcss.com",
+		"ppl.xunzhuo123.com",
+		"xomk.jiangjunmh.top",
+		"img.xunzhuo123.com",
+		"z1.cnzz.com",
+		"s13.cnzz.com",
+		"xg.huataisangao.cn",
+		"z7.cnzz.com",
+		"xg.huataisangao.cn",
+		"z2.cnzz.com",
+		"s96.cnzz.com",
+		"q11.cnzz.com",
+		"thy.dacedsfa.cn",
+		"xg.whsbpw.cn",
+		"s19.cnzz.com",
+		"z8.cnzz.com",
+		"s4.cnzz.com",
+		"f5w.as12df.top",
+		"ae01.alicdn.com",
+		"www.92424.cn",
+		"k.wudejia.com",
+		"vivovip.mmszxc.top",
+		"qiu.xixiqiu.com",
+		"cdnjs.hnfenxun.com",
+		"cms.qdwght.com"
+	]
 }
