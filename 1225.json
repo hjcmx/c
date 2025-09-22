@@ -216,6 +216,62 @@
       "changeable": 1
     },
 //========================盒去广稿============================================
+	 {
+      "key": "荐片",
+      "name": "荐片┃磁力",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "ext": "https://api.ztcgi.com"
+    },
+	 {
+      "key": "热播影视",
+      "name": "热播┃APP",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "浪酷影视",
+      "name": "浪酷┃APP",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.lkuys.cn"
+      }
+    },
+	  {
+      "key": "厂长影视",
+      "name": "厂长┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.czzymovie.com/"
+    },
+    {
+      "key": "金牌影视",
+      "name": "金牌┃影视",
+      "type": 3,
+      "api": "csp_Jpys",
+      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+    },
+    {
+      "key": "云播影视",
+      "name": "云播┃影视",
+      "type": 3,
+      "api": "csp_Tvyb",
+      "ext": "http://www.viptv01.com"
+    },
 {"key": "优质资源","name": "影院| 十九","type": 0,"api": "https://api.1080zyku.com/inc/ldg_api.php","searchable": 1,"quickSearch": 1,
 "playurl": "https://vip.zykbf.com/?url=","categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","台湾片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","辅料","纪录片","动画片","海外剧","理片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","搞笑","音乐","影院","汽车","短剧大全"]},
 {
