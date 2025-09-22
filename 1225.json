@@ -101,19 +101,44 @@
  },
 {"key":"新6V","name":"影院┃八","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"},
 //========================正常============================================
-{"key":"木耳","name":"影院┃九","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":20,"categories":["剧情片","动作片","战争片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"} },
 
-{"key":"T4-caiji","name":"影院┃十","type":4,"api":"https://catbox.n13.club/t4/caiji.php"},
- {
-      "key": "萌米",
-      "name": "影院┃十一",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
+
+	{
+          "key": "Lib",
+                "name": "影院┃九",
+                      "type": 3,
+                            "api": "csp_Libvio",
+                            "jar": "https://gitee.com/lukei7/lib/raw/Luck/moyu.jar",
+                                  "searchable": 1,
+                                        "quickSearch": 1,
+                                              "changeable": 1,
+                                                    "ext": {
+                                                                "Cloud-drive": "TVBox/Cloud-drive.txt",
+                                                                        "from": "4k|auto"
+                                                    }
+},
+{
+          "key": "瓜子影视",
+                "name": "影院┃十",
+                      "type": 3,
+                            "api": "csp_Gz360",
+                                  "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;5723b4f097fbfb7956671d9b035151d9",
+                                        "searchable": 1,
+                                              "quickSearch": 1,
+                                                    "filterable": 1
+},
+
+{
+          "key": "DiDuan",
+                "name": "影院┃十一",
+                      "type": 3,
+                            "api": "csp_Ddrk",
+                                  "jar": "https://gitee.com/lukei7/lib/raw/Luck/moyu.php",
+                                        "playerType": "2",
+                                              "searchable": 1,
+                                                    "quickSearch": 1,
+                                                          "changeable": 1
+},
         {
       "key": "热播",
       "name": "影院┃十二",
@@ -293,22 +318,26 @@
 			]
 		},
 //==================演唱会======================================= 
-{"key":"T4-djuu","name":"音乐-DJUU(T4)","type":4,"api":"https://catbox.n13.club/t4/djuu.php"},
-{"key":"T4-mybili","name":"B站-mybili(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=我的哔哩"},
-{"key":"T4-blh","name":"儿童-贝乐虎(T4)","type":4,"api":"https://catbox.n13.club/t4/beilehu.php"},
-{"key":"T4-qiertiyu","name":"体育-企鹅(T4)","type":4,"api":"https://catbox.n13.club/t4/qietiyu.php"},
-{"key":"T4-360kq","name":"其他-看球(T4)","type":4,"api":"https://catbox.n13.club/t4/360kq.php"},
-{"key":"T4-tingshu","name":"其他-275听书(T4)","type":4,"api":"https://catbox.n13.club/t4/275ts.php"},
-{"key":"T4-bookan","name":"听书-博看(T4)","type":4,"api":"https://catbox.n13.club/t4/bookan.php"},
-{"key":"T4-qingting","name":"音乐-蜻蜓(T4)","type":4,"api":"https://catbox.n13.club/t4/qingting.php"},
-{"key":"T4-tangdou","name":"音乐-糖豆(T4)","type":4,"api":"https://catbox.n13.club/t4/tangdou.php"},
-{"key":"T4-Blixs","name":"B站-相声(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=Blixs"},
-{"key":"T4-Blixq","name":"B站-戏曲(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=Blixq"},
-{"key":"T4-哔哩套餐1","name":"B站-哔哩套餐1(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=哔哩套餐1"},
-{"key":"T4-哔哩套餐2","name":"B站-哔哩套餐2(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=哔哩套餐2"},
-{"key":"T4-美食","name":"B站-美食(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=美食"},
-{"key":"T4-中医","name":"B站-中医(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=中医"},
-{"key":"T4-jijiu","name":"其他-急救(T4)","type":4,"api":"https://catbox.n13.club/t4/jijiu.php"},
+{
+          "key": "央视经典",
+                "name": "📺央视｜经典",
+                      "type": 3,
+                            "api": "csp_Bili",
+                                  "searchable": 0,
+                                        "quickSearch": 1,
+                                              "filterable": 1,
+                                                    "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E5%93%94%E5%93%A9%E7%BB%8F%E5%85%B8.json"
+},
+{
+          "key": "cctv",
+          "name": "📺央视┃大全",
+         "type": 3,
+          "api": "csp_CCTV",
+          "searchable": 0,
+         "filterable": 0,
+           "ext": "https://gitee.com/lukei7/lib/raw/Luck/央视大全.json",
+          "jar": "https://gitee.com/lukei7/lib/raw/Luck/HeChengChaXiu.jar"
+},
  {
       "key": "Biliych",
       "name": "繁华┃演唱",
