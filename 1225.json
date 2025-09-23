@@ -58,17 +58,25 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://auete.pro/"
+      "ext": "https://www.auete.top/"
     },
-	 {
-      "key": "新6V",
+	
+
+	  {
+      "key": "天翼影视",
       "name": "影院┃四",
-      "type": 3,
-      "api": "csp_SixV",
+      "type": 1,
+      "api": "http://7.qqqtv.top/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://www.xb6v.com/"
+      "filterable": 1,
+      "categories": [
+        "推荐",
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
   {
       "key": "苹果",
@@ -154,18 +162,14 @@
     },
 //===========================================================================================
   
-   
-    {
-      "key": "苹果",
+       {
+      "key": "金牌影视",
       "name": "影院┃十三",
       "type": 3,
-      "api": "csp_LiteApple",
-      "playerType": 1,
-      "searchable": 1,
-      "ua": "okhttp/3.15",
-      "quickSearch": 1,
-      "changeable": 1
+      "api": "csp_Jpys",
+      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
+
 //========================盒去广稿============================================
 	 {
       "key": "荐片",
@@ -209,12 +213,12 @@
       "filterable": 1,
       "ext": "https://www.czzymovie.com/"
     },
-    {
-      "key": "金牌影视",
-      "name": "金牌┃影视",
+      {
+      "key": "全网影视",
+      "name": "全看┃影视",
       "type": 3,
-      "api": "csp_Jpys",
-      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+      "api": "csp_Quanwk",
+      "ext": "https://www.91qkw.com"
     },
     {
       "key": "云播影视",
@@ -238,8 +242,7 @@
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn"
     },
-{"key": "优质资源","name": "影院| 十九","type": 0,"api": "https://api.1080zyku.com/inc/ldg_api.php","searchable": 1,"quickSearch": 1,
-"playurl": "https://vip.zykbf.com/?url=","categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","台湾片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","辅料","纪录片","动画片","海外剧","理片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","搞笑","音乐","影院","汽车","短剧大全"]},
+
 {
 			"key": "cjzy_360资源",
 			"name": "💂‍♂️┃卫士┃影院",
