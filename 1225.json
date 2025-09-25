@@ -93,8 +93,7 @@
              {
       "key": "csp_SeedHub",
       "name": "影院┃六",
-      "type": 3,
-      
+      "type": 3,     
       "api": "csp_SeedHub",
       "playerType": 1,
       "searchable": 1,
