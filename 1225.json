@@ -213,7 +213,29 @@
       "ext": "http://www.viptv01.com"
     },
 	
+  {
+      "key": "白嫖者",
+      "name": "白嫖",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+        "副标题": "class=\"pic-texttext-right\"&&</span>",
+        "简介": "特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗+剧情介绍：&&</p>"
+      }
+    },
 
+	  {
+      "key": "大师兄",
+      "name": "🥨大师",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },
 {
 			"key": "cjzy_360资源",
 			"name": "💂‍♂️┃卫士┃影院",
