@@ -10,7 +10,7 @@
 {
 "notifytext" : "公众号【魅力耿城】提醒👉👉永久免费,仅供测试学习.请勿贩卖和购买",
 "notifytextTime":"60",
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716971833099/fan.txt;md5;e5331c586bf5835734be13338cecf00d",//演唱会
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716971833099/fan.txt;md5;e5331c586bf5835734be13338cecf00d",
 "lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly93ZHMuZWNzeHMuY29tLzIzMDg2NC5qc29u"]}]}],
 //========================================================================
 "sites":[ 
