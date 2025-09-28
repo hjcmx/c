@@ -68,6 +68,51 @@
       "changeable": 0,
       "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKewpvDncOpw57Cp8OnwphXXFDCoMOnw6PDqcKhbVBXwovlh77phZvmkJ/lkZzCpuWGn+S9h+WQp2rlv6roqLnotr7mvInnrZPCkFdcUMKgw5fDn8Ocw6zCrMKgwqR7w57DrMKhwrPCmlrCp2VlwqrCo8Kswq3CslrCrQ=="
     },
+	  {
+              "key": "新6V",
+                              "name": "公众号：魅力耿城",
+                                                    "type": 3,
+                                                                                "api": "csp_SixV",
+                                                                                                                  "searchable": 1,
+                                                                                                                                                          "quickSearch": 1,
+                                                                                                                                                                                                        "changeable": 0,
+                                                                                                                                                                                                                                                            "ext": "http://www.xb6v.com/"
+},
+{
+          "key": "央视经典",
+                "name": "央视｜经典",
+                      "type": 3,
+                            "api": "csp_Bili",
+                                  "searchable": 0,
+                                        "quickSearch": 1,
+                                              "filterable": 1,
+                                                    "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E5%93%94%E5%93%A9%E7%BB%8F%E5%85%B8.json"
+},
+{
+          "key": "cctv",
+          "name": "央视┃大全",
+         "type": 3,
+          "api": "csp_CCTV",
+          "searchable": 0,
+         "filterable": 0,
+           "ext": "https://gitee.com/lukei7/lib/raw/Luck/央视大全.json",
+          "jar": "https://gitee.com/lukei7/lib/raw/Luck/HeChengChaXiu.jar"
+},
+
+{
+          "key": "Lib",
+                "name": "立播纯净",
+                      "type": 3,
+                            "api": "csp_Libvio",
+                            "jar": "https://gitee.com/lukei7/lib/raw/Luck/moyu.jar",
+                                  "searchable": 1,
+                                        "quickSearch": 1,
+                                              "changeable": 1,
+                                                    "ext": {
+                                                                "Cloud-drive": "TVBox/Cloud-drive.txt",
+                                                                        "from": "4k|auto"
+                                                    }
+},
 	   {
       "key": "直播转点播",
       "name": "┃电视┃点播",
