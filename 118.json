@@ -1876,6 +1876,7 @@
             "name": "📚少儿┃教育",
             "type": 3,
             "api": "csp_Bili",
+            "jar": "https://gitee.com/lukei7/k18/raw/Luck/Yoursmile.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -1890,6 +1891,7 @@
             "name": "📚小学┃课堂",
             "type": 3,
             "api": "csp_Bili",
+            "jar": "https://gitee.com/lukei7/k18/raw/Luck/Yoursmile.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -1904,6 +1906,7 @@
             "name": "📚初中┃课堂",
             "type": 3,
             "api": "csp_Bili",
+            "jar": "https://gitee.com/lukei7/k18/raw/Luck/Yoursmile.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -1918,6 +1921,7 @@
             "name": "📚高中┃课堂",
             "type": 3,
             "api": "csp_Bili",
+            "jar": "https://gitee.com/lukei7/k18/raw/Luck/Yoursmile.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -1932,6 +1936,7 @@
                 "name": "央视｜经典",
                       "type": 3,
                             "api": "csp_Bili",
+                               "jar": "https://gitee.com/lukei7/k18/raw/Luck/Yoursmile.jar",
                                   "searchable": 0,
                                         "quickSearch": 1,
                                               "filterable": 1,
