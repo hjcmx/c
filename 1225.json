@@ -83,6 +83,7 @@
                 "name": "央视｜经典",
                       "type": 3,
                             "api": "csp_Bili",
+	                           "jar": "https://gitee.com/lukei7/k18/raw/Luck/Yoursmile.jar;md5;a8b67c6e7ae00f56c43f6946764f0102",
                                   "searchable": 0,
                                         "quickSearch": 1,
                                               "filterable": 1,
@@ -113,6 +114,51 @@
                                                                         "from": "4k|auto"
                                                     }
 },
+	   {
+              "key": "原创",
+                    "name": "☀原创┃不卡┃纯净",
+                          "type": 3,
+                                "api": "csp_YCyzGuard",
+                                      "jar": "https://gitee.com/lukei7/k18/raw/Luck/moyu.php",
+                                            "timeout": 15,
+                                                  "playerType": 1,
+                                                        "searchable": 1,
+                                                              "quickSearch": 1,
+                                                                    "changeable": 1
+    },
+        {
+                  "key": "苹果",
+                        "name": "🍎苹果┃不卡┃纯净",
+                              "type": 3,
+                                    "api": "csp_LiteAppleGuard",
+                                          "jar": "https://gitee.com/lukei7/k18/raw/Luck/moyu.php",
+                                                "searchable": 1,
+                                                      "quickSearch": 1,
+                                                            "changeable": 1
+        },
+            {
+                      "key": "糯米",
+                            "name": "🍓糯米┃秒播┃纯净",
+                                  "type": 3,
+                                        "api": "csp_NmyswvGuard",
+                                              "jar": "https://gitee.com/lukei7/k18/raw/Luck/moyu.php",
+                                                    "timeout": 15,
+                                                          "searchable": 1,
+                                                                "quickSearch": 1,
+                                                                      "changeable": 1
+            },
+                {
+                          "key": "文采",
+                                "name": "💮文采┃秒播┃纯净",
+                                      "type": 3,
+                                            "api": "csp_JpysGuard",
+                                                  "jar": "https://gitee.com/lukei7/k18/raw/Luck/moyu.php",
+                                                        "playerType": 2,
+                                                              "searchable": 1,
+                                                                    "quickSearch": 1,
+                                                                          "changeable": 1
+                },
+                       
 	   {
       "key": "直播转点播",
       "name": "┃电视┃点播",
@@ -154,16 +200,7 @@
       "playerType": 1,
       "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
     },
-	 {
-      "key": "低端影视",
-      "name": "低端┃影视",
-      "jar": "https://lz.qaiu.top/d/lz/i5MYu2p7cxoj",
-      "type": 3,
-      "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+	
 	 {
       "key": "剧圈圈",
       "name": "剧圈圈｜影视",
