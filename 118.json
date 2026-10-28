@@ -1,6 +1,6 @@
 {
-  "spider": "https://cnb.cool/baoheapi/jar/-/git/raw/main/spider.jar",
-  //"spider": "https://gitee.com/tvy/tv/raw/master/spider.jar",
+  //"spider": "https://cnb.cool/baoheapi/jar/-/git/raw/main/spider.jar",
+  "spider": "https://gitee.com/tvy/tv/raw/master/spider.jar",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
   "sites": [
