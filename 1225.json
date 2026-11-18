@@ -468,6 +468,66 @@
             "quickSearch": 1,
             "filterable": 1
         },
+            {
+            "key": "4虎视频",
+            "name": "4虎｜影视",
+            "type": 3,
+            "api": "./py/4虎.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "93合1",
+            "name": "93合1｜短剧",
+            "type": 3,
+            "api": "./py/93合1.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "知己红颜",
+            "name": "知己红颜｜短剧",
+            "type": 3,
+            "api": "./py/知己红颜.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+     {
+            "key": "禁果短剧",
+            "name": "禁果短剧｜影视",
+            "type": 3,
+            "api": "./py/禁果短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "蜜桃视频",
+            "name": "蜜桃视频｜短剧",
+            "type": 3,
+            "api": "./py/蜜桃视频.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "黄果剧场",
+            "name": "黄果剧场｜短剧",
+            "type": 3,
+            "api": "./py/黄果剧场.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "飞娱影视",
             "name": "飞娱 • 影视",
