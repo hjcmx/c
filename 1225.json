@@ -328,6 +328,106 @@
             },
             "genre": "shortdrama"
         },
+    {
+            "key": "爱看片片",
+            "name": "爱看片片｜影视",
+            "type": 3,
+            "api": "./py/爱看片片.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "多聚",
+            "name": "多聚｜影视",
+            "type": 3,
+            "api": "./py/多聚.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "番茄酱",
+            "name": "番茄酱｜短剧",
+            "type": 3,
+            "api": "./py/番茄酱.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "看剧AI",
+            "name": "看剧AI｜短剧",
+            "type": 3,
+            "api": "./py/看剧AI.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+    {
+            "key": "七星短剧",
+            "name": "七星短剧｜短剧",
+            "type": 3,
+            "api": "./py/七星短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "全聚合_暴风",
+            "name": "全聚合_暴风｜影剧",
+            "type": 3,
+            "api": "./py/全聚合_暴风.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "小8影视",
+            "name": "小8影视｜影剧",
+            "type": 3,
+            "api": "./py/小8影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+     {
+            "key": "小八影视",
+            "name": "小八影视｜影剧",
+            "type": 3,
+            "api": "./py/小八影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "新云帧享",
+            "name": "新云帧享｜影剧",
+            "type": 3,
+            "api": "./py/新云帧享.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "一起刷TV",
+            "name": "一起刷TV｜影剧",
+            "type": 3,
+            "api": "./py/一起刷TV.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "飞娱影视",
             "name": "飞娱 • 影视",
