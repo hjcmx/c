@@ -428,6 +428,46 @@
             "quickSearch": 1,
             "filterable": 1
         },
+      {
+            "key": "小蜜蜂",
+            "name": "小蜜蜂｜影视",
+            "type": 3,
+            "api": "./py/小蜜蜂.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "橘汁视频",
+            "name": "橘汁视频｜影视",
+            "type": 3,
+            "api": "./py/橘汁视频.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "泡泡",
+            "name": "泡泡｜短剧",
+            "type": 3,
+            "api": "./py/泡泡.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "红果短剧AI",
+            "name": "红果短剧｜短剧",
+            "type": 3,
+            "api": "./py/红果短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "飞娱影视",
             "name": "飞娱 • 影视",
