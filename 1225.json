@@ -339,11 +339,51 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "番茄酱",
-            "name": "番茄酱｜短剧",
+     {
+            "key": "摔角网",
+            "name": "摔角｜影视",
             "type": 3,
-            "api": "./py/番茄酱.py",
+            "api": "./py/摔角网.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "红果短剧修复-黑大帅短剧",
+            "name": "红果短｜短剧",
+            "type": 3,
+            "api": "./py/红果短剧修复-黑大帅.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "红果显季-修复版短剧",
+            "name": "红果显季版｜短剧",
+            "type": 3,
+            "api": "./py/红果显季-修复版.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "剧王短剧",
+            "name": "剧王｜短剧",
+            "type": 3,
+            "api": "./py/剧王短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "红果显季预约",
+            "name": "红果显季｜短剧",
+            "type": 3,
+            "api": "./py/红果显季预约.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
