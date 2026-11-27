@@ -628,7 +628,7 @@ class Spider(_BaseSpider):
             "vod_remarks": d.get("vod_remarks", "") or "HD",
             "vod_actor": d.get("vod_actor", ""),
             "vod_director": d.get("vod_director", ""),
-            "vod_content": '接口源码分享QQ交流群:212706934丰之玲提供剧情介绍:'+content,
+            "vod_content": '接口源码分享QQ交流群:947784152盒锦提供剧情介绍:'+content,
             "vod_play_from": "$$$".join(play_from) if play_from else "剧屋影视",
             "vod_play_url": "$$$".join(play_url) if play_url else "",
         }
