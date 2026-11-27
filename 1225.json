@@ -373,7 +373,7 @@
             "key": "剧王短剧",
             "name": "剧王｜短剧",
             "type": 3,
-            "api": "./py/剧王短剧.py",
+            "api": "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/tvbox/py/剧王短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
