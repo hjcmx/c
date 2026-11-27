@@ -541,33 +541,8 @@
             "api": "csp_SaoHuo",
             "ext": "https://shdy5.us"
         },
-           {
-            "key": "余白",
-            "name": "余白丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://dec.yb4k.top",
-                "dataKey": "KsmJgfp3MVQFKWRa",
-                "dataIv": "KsmJgfp3MVQFKWRa",
-                "token": "d51f0cf047e7d4c5f76e2720cfdcaa927055e77c5e8cc0a1a7e49ca198067161"
-            }
-        },
-        {
-            "key": "清风",
-            "name": "清风丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://qfys.myqf.asia",
-                "dataKey": "vpsj6z4e7scbjbis",
-                "dataIv": "vpsj6z4e7scbjbis",
-                "token": "cea6598a6f09e3af6d583911a81d37f4070c9007eaf35d72dc3cf81e64357bbf",
-                "ua": "Mozilla/5.0 (Linux; Android 13; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
-            }
-        },
+          
+       
         {
             "key": "秒看",
             "name": "秒看丨APP",
@@ -582,19 +557,7 @@
                 "ua": "okhttp/3.10.0"
             }
         },
-        {
-            "key": "咖啡",
-            "name": "咖啡丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
-            "ext": {
-                "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
-                "dataKey": "37kj83zs1q16jk6t",
-                "dataIv": "37kj83zs1q16jk6t",
-                "version": "101"
-            }
-        },
+     
         {
             "key": "枫叶影视",
             "name": "枫叶 • 影视",
