@@ -349,47 +349,20 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "多聚听书",
-            "name": "多聚听书",
-            "type": 3,
-            "api": "./py/多聚听书.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "真果鉴短剧",
-            "name": "真果鉴｜短剧",
-            "type": 3,
-            "api": "./py/真果鉴.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+      
+     
       {
             "key": "红果短剧_修复版剧",
             "name": "红果修复版｜短剧",
             "type": 3,
-            "api": "./py/红果短剧_修复版.py",
+            "api": "./py/[短]红果短剧最终版.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
     
-        {
-            "key": "红果显季预约",
-            "name": "红果显季｜短剧",
-            "type": 3,
-            "api": "./py/红果显季预约.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+     
         {
             "key": "番茄酱",
             "name": "番茄酱｜短剧",
