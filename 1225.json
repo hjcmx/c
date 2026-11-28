@@ -12,18 +12,7 @@
             "quickSearch":0
           },
  
-  {
-            "key": "热播影视",
-            "name": "热播 • APP",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "http://v.rbotv.cn"
-            }
-        },
+ 
         {
             "key": "一起影视",
             "name": "一起 • APP",
@@ -269,6 +258,18 @@
                 "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
                 "dataKey": "88689667dce61725",
                 "dataIv": "88689667dce61725"
+            }
+        },
+     {
+            "key": "热播影视",
+            "name": "热播 • APP",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
             }
         },
   {
