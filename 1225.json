@@ -421,20 +421,30 @@
             "filterable": 1
         },
         {
-            "key": "小8影视",
-            "name": "小8影视｜影剧",
+            "key": "livehubZB",
+            "name": "livehub｜直播",
             "type": 3,
-            "api": "./py/小8影视.py",
+            "api": "./py/livehub.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
      {
-            "key": "小八影视",
-            "name": "小八影视｜影剧",
+            "key": "央卫ZB",
+            "name": "央卫｜直播",
             "type": 3,
-            "api": "./py/小八影视.py",
+            "api": "./py/央卫.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+      {
+            "key": "soop直播",
+            "name": "soop｜直播",
+            "type": 3,
+            "api": "./py/soop直播.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
